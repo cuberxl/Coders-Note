@@ -3,10 +3,10 @@
 
 ---
 
-<h1 id="📚-c-算法学习笔记"><span class="prefix"></span><span class="content">📚 C++ 算法学习笔记</span><span class="suffix"></span></h1>
+<h1 id="c-算法学习笔记"><span class="prefix"></span><span class="content">C++ 算法学习笔记</span><span class="suffix"></span></h1>
 <p>欢迎来到我的 C++ 算法学习笔记！这里是按专题整理的知识库，方便复习和查阅。</p>
 <hr>
-<h2 id="📖-笔记目录"><span class="prefix"></span><span class="content">📖 笔记目录</span><span class="suffix"></span></h2>
+<h2 id="笔记目录"><span class="prefix"></span><span class="content">笔记目录</span><span class="suffix"></span></h2>
 <h3 id="1.-基本语法"><span class="prefix"></span><span class="content">1. 基本语法</span><span class="suffix"></span></h3>
 <blockquote>
 <p>C++ 基础语法与常用容器</p>
@@ -30,7 +30,7 @@
 <hr>
 <h3 id="2.-基本算法"><span class="prefix"></span><span class="content">2. 基本算法</span><span class="suffix"></span></h3>
 <blockquote>
-<p>基础算法思想与模板</p>
+<p>基本算法思想与模板</p>
 </blockquote>
 <ul>
 <li><a href="https://cuberxl.github.io/Coders-Note/2-%E5%9F%BA%E6%9C%AC%E7%AE%97%E6%B3%95/2.1-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95">2.1 排序算法</a></li>
@@ -55,9 +55,13 @@
 <li><a href="https://cuberxl.github.io/Coders-Note/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/3.7-%E5%93%88%E5%B8%8C%E8%A1%A8">3.7 哈希表</a></li>
 <li><a href="https://cuberxl.github.io/Coders-Note/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/3.8-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%93%88%E5%B8%8C">3.8 字符串哈希</a></li>
 </ul>
-<p><strong>进阶</strong></p>
+<hr>
+<h3 id="3.-数据结构进阶"><span class="prefix"></span><span class="content">3*. 数据结构进阶</span><span class="suffix"></span></h3>
+<blockquote>
+<p>基础数据结构的扩展与高级应用</p>
+</blockquote>
 <ul>
-<li><a href="https://cuberxl.github.io/Coders-Note/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/3*.1-%E6%8B%93%E5%B1%95%E5%9F%9F%E5%B9%B6%E6%9F%A5%E9%9B%86">3*.1 拓展域并查集</a></li>
+<li><a href="https://cuberxl.github.io/Coders-Note/3*-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%BF%9B%E9%98%B6/3*.1-%E6%8B%93%E5%B1%95%E5%9F%9F%E5%B9%B6%E6%9F%A5%E9%9B%86">3*.1 拓展域并查集</a></li>
 </ul>
 <hr>
 <h3 id="4.-搜索"><span class="prefix"></span><span class="content">4. 搜索</span><span class="suffix"></span></h3>
@@ -83,11 +87,15 @@
 <li><a href="https://cuberxl.github.io/Coders-Note/5-%E5%9B%BE%E8%AE%BA/5.7-%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91">5.7 最小生成树</a></li>
 <li><a href="https://cuberxl.github.io/Coders-Note/5-%E5%9B%BE%E8%AE%BA/5.8-%E4%BA%8C%E5%88%86%E5%9B%BE">5.8 二分图</a></li>
 </ul>
-<p><strong>进阶</strong></p>
+<hr>
+<h3 id="5.-图论进阶"><span class="prefix"></span><span class="content">5*. 图论进阶</span><span class="suffix"></span></h3>
+<blockquote>
+<p>最短路径算法的深入应用与扩展</p>
+</blockquote>
 <ul>
-<li><a href="https://cuberxl.github.io/Coders-Note/5-%E5%9B%BE%E8%AE%BA/5*.1-%E5%B7%AE%E5%88%86%E7%BA%A6%E6%9D%9F">5*.1 差分约束</a></li>
-<li><a href="https://cuberxl.github.io/Coders-Note/5-%E5%9B%BE%E8%AE%BA/5*.2-%E5%88%86%E5%B1%82%E5%9B%BE%E6%9C%80%E7%9F%AD%E8%B7%AF">5*.2 分层图最短路</a></li>
-<li><a href="https://cuberxl.github.io/Coders-Note/5-%E5%9B%BE%E8%AE%BA/5*.3-%E6%9C%80%E7%9F%AD%E8%B7%AF%E8%AE%A1%E6%95%B0%E9%97%AE%E9%A2%98">5*.3 最短路计数问题</a></li>
+<li><a href="https://cuberxl.github.io/Coders-Note/5*-%E5%9B%BE%E8%AE%BA%E8%BF%9B%E9%98%B6/5*.1-%E5%B7%AE%E5%88%86%E7%BA%A6%E6%9D%9F">5*.1 差分约束</a></li>
+<li><a href="https://cuberxl.github.io/Coders-Note/5*-%E5%9B%BE%E8%AE%BA%E8%BF%9B%E9%98%B6/5*.2-%E5%88%86%E5%B1%82%E5%9B%BE%E6%9C%80%E7%9F%AD%E8%B7%AF">5*.2 分层图最短路</a></li>
+<li><a href="https://cuberxl.github.io/Coders-Note/5*-%E5%9B%BE%E8%AE%BA%E8%BF%9B%E9%98%B6/5*.3-%E6%9C%80%E7%9F%AD%E8%B7%AF%E8%AE%A1%E6%95%B0%E9%97%AE%E9%A2%98">5*.3 最短路计数问题</a></li>
 </ul>
 <hr>
 <h3 id="6.-动态规划"><span class="prefix"></span><span class="content">6. 动态规划</span><span class="suffix"></span></h3>

@@ -2,6 +2,9 @@
 title: Coders-Note
 description: 编程学习笔记
 
+# 使用 GitHub Pages 默认主题
+theme: jekyll-theme-primer
+
 # Markdown 引擎设置
 markdown: kramdown
 kramdown:

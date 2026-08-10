@@ -1,3 +1,11 @@
+# 站点设置
+title: C++ 算法学习笔记
+description: 个人算法学习笔记
+
+# 使用一个支持 MathJax 的 GitHub Pages 主题
+theme: jekyll-theme-cayman
+
+# Markdown 引擎设置
 markdown: kramdown
 kramdown:
   math_engine: mathjax

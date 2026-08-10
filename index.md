@@ -110,9 +110,10 @@
 <blockquote>
 <p>贪心算法思想</p>
 </blockquote>
-<ul>
-<li><a href="https://cuberxl.github.io/Coders-Note/7-%E8%B4%AA%E5%BF%83/7.1-%E8%B4%AA%E5%BF%83">7.1 贪心</a></li>
-</ul>
+<h3 id="8.数学"><span class="prefix"></span><span class="content">8.数学</span><span class="suffix"></span></h3>
+<blockquote>
+<p>数论及相关技巧</p>
+</blockquote>
 <blockquote>
 <p>💡 提示：点击上方链接即可跳转到对应笔记页面。</p>
 </blockquote>

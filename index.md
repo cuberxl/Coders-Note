@@ -22,7 +22,7 @@
 </ul>
 <h3 id="3.-数据结构进阶"><span class="prefix"></span><span class="content">3*. 数据结构进阶</span><span class="suffix"></span></h3>
 <ul>
-<li><a href="https://cuberxl.github.io/Coders-Note/3*-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%BF%9B%E9%98%B6/3.0-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%BF%9B%E9%98%B6">📌 章节首页 →</a></li>
+<li><a href="https://cuberxl.github.io/Coders-Note/3*-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%BF%9B%E9%98%B6/3*.0-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%BF%9B%E9%98%B6">📌 章节首页 →</a></li>
 </ul>
 <h3 id="4.-搜索"><span class="prefix"></span><span class="content">4. 搜索</span><span class="suffix"></span></h3>
 <ul>
@@ -34,7 +34,7 @@
 </ul>
 <h3 id="5.-图论进阶"><span class="prefix"></span><span class="content">5*. 图论进阶</span><span class="suffix"></span></h3>
 <ul>
-<li><a href="https://cuberxl.github.io/Coders-Note/5*-%E5%9B%BE%E8%AE%BA%E8%BF%9B%E9%98%B6/5.0-%E5%9B%BE%E8%AE%BA%E8%BF%9B%E9%98%B6">📌 章节首页 →</a></li>
+<li><a href="https://cuberxl.github.io/Coders-Note/5*-%E5%9B%BE%E8%AE%BA%E8%BF%9B%E9%98%B6/5*.0-%E5%9B%BE%E8%AE%BA%E8%BF%9B%E9%98%B6">📌 章节首页 →</a></li>
 </ul>
 <h3 id="6.-动态规划"><span class="prefix"></span><span class="content">6. 动态规划</span><span class="suffix"></span></h3>
 <ul>

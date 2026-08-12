@@ -4,9 +4,8 @@
 ---
 
 <h1 id="编程学习笔记"><span class="prefix"></span><span class="content">编程学习笔记</span><span class="suffix"></span></h1>
-<p>欢迎来到我的编程学习笔记！这里是我整理的知识库，方便复习和查阅。<br>
-作者水平有限，有问题欢迎指出。<br>
-你可以在下面的总目录中跳转到对应章节目录。</p>
+<p>欢迎来到我的编程学习笔记！这里是我整理的知识库，方便复习和查阅。</p>
+<p>你可以在下面的总目录中跳转到对应章节目录。</p>
 <hr>
 <h2 id="📖-笔记目录"><span class="prefix"></span><span class="content">📖 笔记目录</span><span class="suffix"></span></h2>
 <h3 id="1.-基本语法"><span class="prefix"></span><span class="content">1. 基本语法</span><span class="suffix"></span></h3>
@@ -51,4 +50,7 @@
 </ul>
 <hr>
 <h3 id="作者：cuberxl"><span class="prefix"></span><span class="content">作者：cuberxl</span><span class="suffix"></span></h3>
+<blockquote>
+<p>作者水平有限，有问题欢迎指出。</p>
+</blockquote>
 

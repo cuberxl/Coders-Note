@@ -50,7 +50,5 @@
 <li><a href="https://cuberxl.github.io/Coders-Note/8-%E6%95%B0%E5%AD%A6/8.0-%E6%95%B0%E5%AD%A6">📌 章节首页 →</a></li>
 </ul>
 <hr>
-<blockquote>
-<p>💡 <strong>提示</strong>：点击 <strong>“章节首页 →”</strong> 即可跳转到对应的章节。</p>
-</blockquote>
+<h3 id="作者：cuberxl"><span class="prefix"></span><span class="content">作者：cuberxl</span><span class="suffix"></span></h3>
 

@@ -1,6 +1,5 @@
-# 中国剩余定理（CRT）
 
-111
+# 中国剩余定理（CRT）
 
 ## 问题
 
@@ -121,7 +120,6 @@ ll crt(vector<ll> a, vector<ll> m) {
     }
     return ans;
 }
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA1NjgyODZdfQ==
+eyJoaXN0b3J5IjpbMTE5NTAwNDc1Ml19
 -->

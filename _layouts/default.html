@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title | default: "Coders-Note" }}</title>
+    
+    <!-- 引入你的 head.html，里面包含了 MathJax 配置 -->
+    {% include head.html %}
+    
+    <!-- 这里可以保留你原有的 CSS 样式 -->
+    <link rel="stylesheet" href="/Coders-Note/assets/css/style.css">
+</head>
+<body>
+    <div class="container-lg px-3 my-5 markdown-body">
+        <!-- 页面内容 -->
+        {{ content }}
+    </div>
+</body>
+</html>

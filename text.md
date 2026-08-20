@@ -120,6 +120,8 @@ ll crt(vector<ll> a, vector<ll> m) {
     }
     return ans;
 }
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjc4Mjk4NSwxMTk1MDA0NzUyXX0=
+eyJoaXN0b3J5IjpbMTI5MDAyNTQ1NSwtOTA2NzgyOTg1LDExOT
+UwMDQ3NTJdfQ==
 -->

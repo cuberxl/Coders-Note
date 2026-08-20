@@ -1,6 +1,6 @@
 
 # 中国剩余定理（CRT）
-111
+
 ## 问题
 
 解同余方程组：
@@ -122,6 +122,6 @@ ll crt(vector<ll> a, vector<ll> m) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDAyNTQ1NSwtOTA2NzgyOTg1LDExOT
-UwMDQ3NTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDAxMDAwNDIsMTI5MDAyNTQ1NSwtOT
+A2NzgyOTg1LDExOTUwMDQ3NTJdfQ==
 -->

@@ -22,10 +22,12 @@
 ---
 
 ### 作者：cuberxl
-> 作者水平有限，有问题欢迎指出。
-> 参考资料：Acwing算法基础课/《算法竞赛进阶指南》/oi.wiki
+
+ 作者水平有限，有问题欢迎指出。
+ 
+ 参考资料：Acwing算法基础课/《算法竞赛进阶指南》/oi.wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjA0NDc0NiwtMTMzMDg1OTY0NCw1Mz
-Q1MjA1ODUsMTA3NTcxMTQ3OV19
+eyJoaXN0b3J5IjpbMTkzOTU5NjcyLDE2MDIwNDQ3NDYsLTEzMz
+A4NTk2NDQsNTM0NTIwNTg1LDEwNzU3MTE0NzldfQ==
 -->

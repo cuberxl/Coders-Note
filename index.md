@@ -23,8 +23,9 @@
 
 ### 作者：cuberxl
 > 作者水平有限，有问题欢迎指出。
+> 参考资料：Acwing算法基础课/《算法竞赛进阶指南》/oi.wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA4NTk2NDQsNTM0NTIwNTg1LDEwNz
-U3MTE0NzldfQ==
+eyJoaXN0b3J5IjpbMTYwMjA0NDc0NiwtMTMzMDg1OTY0NCw1Mz
+Q1MjA1ODUsMTA3NTcxMTQ3OV19
 -->

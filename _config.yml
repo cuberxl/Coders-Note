@@ -7,3 +7,6 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
   enable_coderay: false
+  input: GFM
+
+mermaid: true

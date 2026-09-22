@@ -16,6 +16,7 @@
 - [5. 图论](https://cuberxl.github.io/Coders-Note/5-图论/5.0-图论)
 - [5\*. 图论进阶](https://cuberxl.github.io/Coders-Note/5*-图论进阶/5*.0-图论进阶)
 - [6. 动态规划](https://cuberxl.github.io/Coders-Note/6-动态规划/6.0-动态规划)
+- [6*. 动态规划进阶](https://cuberxl.github.io/Coders-Note/6*-动态规划进阶/6*.0-动态规划进阶)
 - [7. 贪心](https://cuberxl.github.io/Coders-Note/7-贪心/7.0-贪心)
 - [8. 数学](https://cuberxl.github.io/Coders-Note/8-数学/8.0-数学)
 
@@ -28,6 +29,7 @@
  参考资料：Acwing算法基础课/《算法竞赛进阶指南》/oi.wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTU5NjcyLDE2MDIwNDQ3NDYsLTEzMz
-A4NTk2NDQsNTM0NTIwNTg1LDEwNzU3MTE0NzldfQ==
+eyJoaXN0b3J5IjpbLTQzNzQzNzY5MSwxOTM5NTk2NzIsMTYwMj
+A0NDc0NiwtMTMzMDg1OTY0NCw1MzQ1MjA1ODUsMTA3NTcxMTQ3
+OV19
 -->

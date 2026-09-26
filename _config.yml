@@ -1,7 +1,7 @@
 title: Coders-Note
 description: 编程学习笔记
 
-theme: jekyll-theme-primer
+remote_theme: pages-themes/primer
 
 markdown: kramdown
 kramdown:

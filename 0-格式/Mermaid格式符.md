@@ -1,5 +1,5 @@
 
-# Mermaid 详细语法速查
+## Mermaid 格式符
 
 ## 一、图类型与方向
 
@@ -90,7 +90,6 @@ flowchart LR
     A e1@--> B
     e1@{ animate: true, animation: fast }
 ```
-
 ---
 
 ## 三、时序图
@@ -513,5 +512,5 @@ xychart-beta
 - 甘特图日期格式需与 `dateFormat` 一致
 - 不同渲染器支持的图类型和版本不同，用前确认
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzg0MzQ4MF19
+eyJoaXN0b3J5IjpbNDAzODMzMjkyXX0=
 -->

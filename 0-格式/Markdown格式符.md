@@ -1,4 +1,4 @@
-# Markdown 语法速查
+## Markdown 格式符
 
 ## 一、标题
 
@@ -305,5 +305,5 @@ graph TD
 - HTML 内嵌不是所有平台都支持，部分平台会过滤。
 - 数学公式、Mermaid、脚注通常需要额外配置或插件。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTU5NDUxOV19
+eyJoaXN0b3J5IjpbLTE3NTE3NjI1ODNdfQ==
 -->

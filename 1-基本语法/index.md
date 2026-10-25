@@ -14,10 +14,9 @@
 | 1.6 | sort、reverse、unique、二分查找、排列、内存操作 |
 | 1.7 | 定义、构造/析构、继承多态、友元、静态成员、联合体 |
 | 1.8 | 指针运算、动态内存分配 |
-| 1.9 | 文件读写、stringstream、格式化输出|
-| 1.10 | STL 容器（vector、queue/stack、deque、set、map） |
-| 1.11 | 与或非异或、移位、相关应用、集合操作 |
-| 1.12 | 字符串流 |
+| 1.9 | STL 容器（vector、queue/stack、deque、set、map） |
+| 1.10 | 与或非异或、移位、相关应用、集合操作 |
+| 1.11 | 字符串流 |
 
 ---
 
@@ -37,5 +36,5 @@
 - [1.11 位运算](https://cuberxl.github.io/Coders-Note/1-基本语法/1.11-位运算)
 - [1.12 字符串流](https://cuberxl.github.io/Coders-Note/1-基本语法/1.12-字符串流)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY4MDc3NzRdfQ==
+eyJoaXN0b3J5IjpbMTM2OTkwNTQxOCwtMTc5NjgwNzc3NF19
 -->

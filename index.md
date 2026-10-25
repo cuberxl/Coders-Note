@@ -1,5 +1,6 @@
-# 首页
----
+
+# 编程学习笔记
+
 欢迎来到我的编程学习笔记！这里是我整理的知识库，方便复习和查阅。
 
 你可以在下面的总目录中跳转到对应章节目录。
@@ -24,12 +25,12 @@
 
 ### 作者：cuberxl
 
- 作者水平有限，有问题欢迎指出。
- 
- 参考资料：Acwing算法基础课/《算法竞赛进阶指南》/oi.wiki
-
+> 作者水平有限，有问题欢迎指出。
+>
+> 参考资料：Acwing算法基础课 / 《算法竞赛进阶指南》 / oi.wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU0NjI3MTUsLTE5ODU0NjI3MTUsLT
-QzNzQzNzY5MSwxOTM5NTk2NzIsMTYwMjA0NDc0NiwtMTMzMDg1
-OTY0NCw1MzQ1MjA1ODUsMTA3NTcxMTQ3OV19
+eyJoaXN0b3J5IjpbNDgwMzU0NzYwLC0xOTg1NDYyNzE1LC0xOT
+g1NDYyNzE1LC00Mzc0Mzc2OTEsMTkzOTU5NjcyLDE2MDIwNDQ3
+NDYsLTEzMzA4NTk2NDQsNTM0NTIwNTg1LDEwNzU3MTE0NzldfQ
+==
 -->

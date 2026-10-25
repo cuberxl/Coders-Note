@@ -1,5 +1,5 @@
 
-### 3. 数据结构
+### 数据结构
 
 > 常用数据结构实现与应用
 
@@ -9,10 +9,9 @@
 | 3.2 | 左边更小数、滑动窗口最值，$O(n)$ |
 | 3.3 | next 数组计算、匹配过程、避免回溯 |
 | 3.4 | 字符串存储与查找、二进制 Trie 求最大异或对 |
-| 3.5 | 合并查询、路径压缩、按秩合并 |
-| 3.6 | down/up 操作、建堆 $O(n)$、堆排序 |
-| 3.7 | 拉链法、开放寻址法 |
-| 3.8 | 前缀哈希、子串查询 |
+| 3.5 | down/up 操作、建堆 $O(n)$、堆排序 |
+| 3.6 | 拉链法、开放寻址法、查找/插入/删除 |
+| 3.7 | 前缀哈希、子串查询 |
 
 ---
 
@@ -20,12 +19,11 @@
 
 - [3.1 单链表、双链表](https://cuberxl.github.io/Coders-Note/3-数据结构/3.1-单链表、双链表)
 - [3.2 单调栈、单调队列](https://cuberxl.github.io/Coders-Note/3-数据结构/3.2-单调栈、单调队列)
-- [3.3 KMP 字符串匹配](https://cuberxl.github.io/Coders-Note/3-数据结构/3.3-KMP字符串匹配)
-- [3.4 Trie 树](https://cuberxl.github.io/Coders-Note/3-数据结构/3.4-Trie树)
-- [3.5 并查集](https://cuberxl.github.io/Coders-Note/3-数据结构/3.5-并查集)
-- [3.6 堆](https://cuberxl.github.io/Coders-Note/3-数据结构/3.6-堆)
-- [3.7 哈希表](https://cuberxl.github.io/Coders-Note/3-数据结构/3.7-哈希表)
-- [3.8 字符串哈希](https://cuberxl.github.io/Coders-Note/3-数据结构/3.8-字符串哈希)
+- [3.3 KMP字符串匹配](https://cuberxl.github.io/Coders-Note/3-数据结构/3.3-KMP字符串匹配)
+- [3.4 Trie树](https://cuberxl.github.io/Coders-Note/3-数据结构/3.4-Trie树)
+- [3.5 堆](https://cuberxl.github.io/Coders-Note/3-数据结构/3.5-堆)
+- [3.6 哈希表](https://cuberxl.github.io/Coders-Note/3-数据结构/3.6-哈希表)
+- [3.7 字符串哈希](https://cuberxl.github.io/Coders-Note/3-数据结构/3.7-字符串哈希)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTMzNjE0Ml19
+eyJoaXN0b3J5IjpbLTkyNTAwOTk2OF19
 -->

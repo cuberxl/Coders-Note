@@ -1,0 +1,31 @@
+
+### 动态规划
+
+> DP 专题
+
+| 编号 | 简介 |
+| :--- | :--- |
+| 6.1 | 01背包、完全背包、多重背包、分组背包 |
+| 6.2 | 数字三角形、最长上升子序列、最长公共子序列、最短编辑距离 |
+| 6.3 | 石子合并 |
+| 6.4 | 整数划分 |
+| 6.5 | 计数问题 |
+| 6.6 | 蒙德里安的梦想、最短Hamilton路径 |
+| 6.7 | 没有上司的舞会 |
+| 6.8 | 滑雪 |
+
+---
+
+## 📌 跳转链接
+
+- [6.1 背包 DP](https://cuberxl.github.io/Coders-Note/6-动态规划/6.1-背包DP)
+- [6.2 线性 DP](https://cuberxl.github.io/Coders-Note/6-动态规划/6.2-线性DP)
+- [6.3 区间 DP](https://cuberxl.github.io/Coders-Note/6-动态规划/6.3-区间DP)
+- [6.4 计数类 DP](https://cuberxl.github.io/Coders-Note/6-动态规划/6.4-计数类DP)
+- [6.5 数位统计 DP](https://cuberxl.github.io/Coders-Note/6-动态规划/6.5-数位统计DP)
+- [6.6 状态压缩 DP](https://cuberxl.github.io/Coders-Note/6-动态规划/6.6-状态压缩DP)
+- [6.7 树形 DP](https://cuberxl.github.io/Coders-Note/6-动态规划/6.7-树形DP)
+- [6.8 记忆化搜索](https://cuberxl.github.io/Coders-Note/6-动态规划/6.8-记忆化搜索)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NjU4MzQ4MTVdfQ==
+-->

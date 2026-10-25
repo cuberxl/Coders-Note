@@ -1,5 +1,4 @@
-## 编程学习笔记
----
+# 编程学习笔记
 
 本笔记库基于 C++ 语言构建，旨在系统性地梳理算法竞赛与数据结构领域的核心知识体系。
 
@@ -29,10 +28,10 @@
 
 > 笔者知识储备有限，疏漏与不足之处敬请指正。
 >
-> 参考资料：Acwing 算法基础课 / 《算法竞赛进阶指南》 / OI Wiki
+> *参考资料：Acwing 算法基础课 / 《算法竞赛进阶指南》 / OI Wiki*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0MDE3NDc4LC0xOTg1NDYyNzE1LC0xOT
-g1NDYyNzE1LC00Mzc0Mzc2OTEsMTkzOTU5NjcyLDE2MDIwNDQ3
-NDYsLTEzMzA4NTk2NDQsNTM0NTIwNTg1LDEwNzU3MTE0NzldfQ
-==
+eyJoaXN0b3J5IjpbLTE5MDgyMTk1MjYsLTE5ODU0NjI3MTUsLT
+E5ODU0NjI3MTUsLTQzNzQzNzY5MSwxOTM5NTk2NzIsMTYwMjA0
+NDc0NiwtMTMzMDg1OTY0NCw1MzQ1MjA1ODUsMTA3NTcxMTQ3OV
+19
 -->

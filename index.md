@@ -1,7 +1,9 @@
+## 编程学习笔记
+---
 
-### 编程学习笔记
+本笔记库基于 C++ 语言构建，旨在系统性地梳理算法竞赛与数据结构领域的核心知识体系。
 
-本笔记库基于 C++ 语言构建，旨在系统性地梳理算法竞赛与数据结构领域的核心知识体系。内容覆盖从基础语法、基础算法、高级数据结构，到图论、动态规划及数学等进阶模块，通过模块化的分类进行结构化存储，便于知识检索与体系化复盘。
+笔者通过模块化的分类进行结构化存储，便于知识检索与体系化复盘。
 
 您可以通过以下总目录索引，快速跳转至对应的章节页面进行查阅。
 
@@ -29,8 +31,8 @@
 >
 > 参考资料：Acwing 算法基础课 / 《算法竞赛进阶指南》 / OI Wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg0MjE4NjEsLTE5ODU0NjI3MTUsLT
-E5ODU0NjI3MTUsLTQzNzQzNzY5MSwxOTM5NTk2NzIsMTYwMjA0
-NDc0NiwtMTMzMDg1OTY0NCw1MzQ1MjA1ODUsMTA3NTcxMTQ3OV
-19
+eyJoaXN0b3J5IjpbNDM0MDE3NDc4LC0xOTg1NDYyNzE1LC0xOT
+g1NDYyNzE1LC00Mzc0Mzc2OTEsMTkzOTU5NjcyLDE2MDIwNDQ3
+NDYsLTEzMzA4NTk2NDQsNTM0NTIwNTg1LDEwNzU3MTE0NzldfQ
+==
 -->

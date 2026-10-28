@@ -17,8 +17,8 @@
 
 ## 📌 跳转链接
 
-- [5.4.1 Prim算法](https://cuberxl.github.io/Coders-Note/5-图论/5.3-最短路算法/5.3.1-Dijkstra算法)
-- [5.4.2 Kruskal算法](https://cuberxl.github.io/Coders-Note/5-图论/5.3-最短路算法/5.3.2-Kruskal算法)
+- [5.4.1 Prim算法](https://cuberxl.github.io/Coders-Note/5-图论/5.4-最小生成树/5.4.1-Prim算法)
+- [5.4.2 Kruskal算法](https://cuberxl.github.io/Coders-Note/5-图论/5.4-最小生成树/5.4.2-Kruskal算法)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NTI5NTYzXX0=
+eyJoaXN0b3J5IjpbLTc4Nzk2MjE5MV19
 -->

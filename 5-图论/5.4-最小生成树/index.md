@@ -3,7 +3,7 @@
 
 ---
 
-**定义**：
+**定义**：在连通无向图中，选出 n-1 条边，使所有顶点连通且总权值最小。
 
 **算法总览**：
 
@@ -20,5 +20,5 @@
 - [5.4.1 Prim算法](https://cuberxl.github.io/Coders-Note/5-图论/5.4-最小生成树/5.4.1-Prim算法)
 - [5.4.2 Kruskal算法](https://cuberxl.github.io/Coders-Note/5-图论/5.4-最小生成树/5.4.2-Kruskal算法)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Nzk2MjE5MV19
+eyJoaXN0b3J5IjpbLTEyNDQ0MzM4MjhdfQ==
 -->

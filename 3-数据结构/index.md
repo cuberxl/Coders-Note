@@ -19,11 +19,11 @@
 
 - [3.1 单链表、双链表](https://cuberxl.github.io/Coders-Note/3-数据结构/3.1-单链表、双链表)
 - [3.2 单调栈、单调队列](https://cuberxl.github.io/Coders-Note/3-数据结构/3.2-单调栈、单调队列)
-- [3.3 KMP字符串匹配](https://cuberxl.github.io/Coders-Note/3-数据结构/3.3-KMP字符串匹配)
+- [3.3 KMP模式匹配](https://cuberxl.github.io/Coders-Note/3-数据结构/3.3-KMP模式匹配)
 - [3.4 Trie树](https://cuberxl.github.io/Coders-Note/3-数据结构/3.4-Trie树)
 - [3.5 堆](https://cuberxl.github.io/Coders-Note/3-数据结构/3.5-堆)
 - [3.6 哈希表](https://cuberxl.github.io/Coders-Note/3-数据结构/3.6-哈希表)
 - [3.7 字符串哈希](https://cuberxl.github.io/Coders-Note/3-数据结构/3.7-字符串哈希)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTAwOTk2OF19
+eyJoaXN0b3J5IjpbLTQ1NTE2MzcxMiwtOTI1MDA5OTY4XX0=
 -->

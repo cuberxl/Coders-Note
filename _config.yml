@@ -1,12 +1,15 @@
 title: Coders-Note
 description: 编程学习笔记
 
-remote_theme: pages-themes/primer
+remote_theme: pages-themes/cayman
 
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-  enable_coderay: false
   input: GFM
+  parse_block_html: true
+  enable_coderay: false
+
+highlighter: rouge
 
 mermaid: true

@@ -1,6 +1,10 @@
 
 ### 最短路算法
 
+[**返回上一页**](https://cuberxl.github.io/Coders-Note/5-图论/)
+
+[**返回首页**](https://cuberxl.github.io/Coders-Note/)
+
 ---
 
 **定义**：在图中求两点之间边权之和最小的路径。
@@ -31,5 +35,5 @@
 - [5.3.3 SPFA算法](https://cuberxl.github.io/Coders-Note/5-图论/5.3-最短路算法/5.3.3-SPFA算法)
 - [5.3.4 Floyd算法](https://cuberxl.github.io/Coders-Note/5-图论/5.3-最短路算法/5.3.4-Floyd算法)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQwOTAwM119
+eyJoaXN0b3J5IjpbLTMyNzkwNjgwNl19
 -->

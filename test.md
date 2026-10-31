@@ -2,8 +2,8 @@
 ```cpp
 #include <iostream>
 int main() { return 0; }
-
-</details> ```
+```
+</details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNzAwODA3XX0=
+eyJoaXN0b3J5IjpbLTMxMDQ1ODQ1XX0=
 -->

@@ -1,15 +1,14 @@
 <details>
-<summary>点击展开</summary>
-<br>
-```cpp
+<summary>点击展开代码</summary>
+<pre> <code class="language-cpp">
 inline int read()
 {
-	int x = 0, c = getchar();
+    int x = 0, c = getchar();
+    return x;
 }
-```
-<br>
+</code></pre>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcwODQzODksLTk4OTEzNzYzNywtNT
-EwMzc0ODg1LC0xMTQ4NzA5MjI4LC0xNzk5OTgzMzAyXX0=
+eyJoaXN0b3J5IjpbMTc5NTkxNDAxOCwtOTg5MTM3NjM3LC01MT
+AzNzQ4ODUsLTExNDg3MDkyMjgsLTE3OTk5ODMzMDJdfQ==
 -->

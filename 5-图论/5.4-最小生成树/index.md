@@ -15,10 +15,10 @@
 
 ---
 
-## 📌 跳转链接
+#### 跳转链接
 
 - [5.4.1 Prim算法](https://cuberxl.github.io/Coders-Note/5-图论/5.4-最小生成树/5.4.1-Prim算法)
 - [5.4.2 Kruskal算法](https://cuberxl.github.io/Coders-Note/5-图论/5.4-最小生成树/5.4.2-Kruskal算法)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MjA0MDk2XX0=
+eyJoaXN0b3J5IjpbNzA0MTI3NDU5LDU5NzIwNDA5Nl19
 -->

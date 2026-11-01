@@ -8,7 +8,6 @@ kramdown:
   math_engine: mathjax
   input: GFM
   parse_block_html: true
-  enable_coderay: false
 
 highlighter: rouge
 

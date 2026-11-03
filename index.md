@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 笔记目录
+## 笔记目录
 
 - [1. 基本语法](https://cuberxl.github.io/Coders-Note/1-基本语法/)
 - [2. 基本算法](https://cuberxl.github.io/Coders-Note/2-基本算法/)
@@ -30,8 +30,8 @@
 >
 > *参考资料：Acwing 算法基础课 / 《算法竞赛进阶指南》 / OI Wiki*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgyMTk1MjYsLTE5ODU0NjI3MTUsLT
-E5ODU0NjI3MTUsLTQzNzQzNzY5MSwxOTM5NTk2NzIsMTYwMjA0
-NDc0NiwtMTMzMDg1OTY0NCw1MzQ1MjA1ODUsMTA3NTcxMTQ3OV
-19
+eyJoaXN0b3J5IjpbMTMzODI5NzM4MywtMTk4NTQ2MjcxNSwtMT
+k4NTQ2MjcxNSwtNDM3NDM3NjkxLDE5Mzk1OTY3MiwxNjAyMDQ0
+NzQ2LC0xMzMwODU5NjQ0LDUzNDUyMDU4NSwxMDc1NzExNDc5XX
+0=
 -->

@@ -1,26 +1,17 @@
 
 <details>
   <summary>点击展开代码</summary>
-  <div>
-    <pre><code class="language-cpp">
-// 快读
+  <pre><code class="language-cpp">// 快读
 inline int read()
 {
     int x = 0, c = getchar();
     return x;
 }
-    </code></pre>
-  </div>
+  </code></pre>
 </details>
-
-
-
-# 一级
-
- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5ODk4NDg5LC04NDUzMjU4MDYsNDg5Mz
-c4MDY3LC0yMDQxODU1MzkzLDE3OTU5MTQwMTgsLTk4OTEzNzYz
-NywtNTEwMzc0ODg1LC0xMTQ4NzA5MjI4LC0xNzk5OTgzMzAyXX
-0=
+eyJoaXN0b3J5IjpbLTMyOTQ0Mjk1NiwtODQ1MzI1ODA2LDQ4OT
+M3ODA2NywtMjA0MTg1NTM5MywxNzk1OTE0MDE4LC05ODkxMzc2
+MzcsLTUxMDM3NDg4NSwtMTE0ODcwOTIyOCwtMTc5OTk4MzMwMl
+19
 -->

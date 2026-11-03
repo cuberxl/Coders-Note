@@ -1,16 +1,19 @@
 <details>
 <summary>点击展开代码</summary>
-<pre> <code>//快读
+
+```cpp
+// 快读
 inline int read()
 {
     int x = 0, c = getchar();
     return x;
 }
-</code></pre>
+```
+
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5Mzc4MDY3LC04NDUzMjU4MDYsNDg5Mz
-c4MDY3LC0yMDQxODU1MzkzLDE3OTU5MTQwMTgsLTk4OTEzNzYz
-NywtNTEwMzc0ODg1LC0xMTQ4NzA5MjI4LC0xNzk5OTgzMzAyXX
-0=
+eyJoaXN0b3J5IjpbLTg0NTMyNTgwNiw0ODkzNzgwNjcsLTg0NT
+MyNTgwNiwtMjA0MTg1NTM5MywxNzk1OTE0MDE4LC05ODkxMzc2
+MzcsLTUxMDM3NDg4NSwtMTE0ODcwOTIyOCwtMTc5OTk4MzMwMl
+19
 -->

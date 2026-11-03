@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const details = document.createElement("details");
       const summary = document.createElement("summary");
 
-      summary.textContent = "点击展开 C++ 代码";
+      summary.textContent = "点击展开代码";
       details.className = "collapsible-code";
 
       block.parentNode.insertBefore(details, block);

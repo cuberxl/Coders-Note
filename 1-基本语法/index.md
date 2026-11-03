@@ -31,7 +31,7 @@
 
 - [1.1 常用头文件](https://cuberxl.github.io/Coders-Note/1-基本语法/1.1-常用头文件)
 - [1.2 运算符](https://cuberxl.github.io/Coders-Note/1-基本语法/1.2-运算符)
-- [1.3 变量类型及修饰](https://cuberxl.github.io/Coders-Note/1-基本语法/1.3-变量类型及修饰符)
+- [1.3 变量类型及修饰](https://cuberxl.github.io/Coders-Note/1-基本语法/1.3-变量类型及修饰)
 - [1.4 输入输出及转义字符](https://cuberxl.github.io/Coders-Note/1-基本语法/1.4-输入输出及转义字符)
 - [1.5 常用数学函数](https://cuberxl.github.io/Coders-Note/1-基本语法/1.5-常用数学函数)
 - [1.6 常用算法函数](https://cuberxl.github.io/Coders-Note/1-基本语法/1.6-常用算法函数)
@@ -41,6 +41,6 @@
 - [1.10 位运算](https://cuberxl.github.io/Coders-Note/1-基本语法/1.10-位运算)
 - [1.11 字符串流](https://cuberxl.github.io/Coders-Note/1-基本语法/1.11-字符串流)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MTU2OTY1LC0zOTEwNjc0MzUsMTM2OT
-kwNTQxOCwtMTc5NjgwNzc3NF19
+eyJoaXN0b3J5IjpbLTE2OTE3NzMwODMsLTM5MTA2NzQzNSwxMz
+Y5OTA1NDE4LC0xNzk2ODA3Nzc0XX0=
 -->

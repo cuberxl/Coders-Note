@@ -1,15 +1,3 @@
-<details>
-  <summary>点击展开代码</summary>
-  <pre><code class="language-cpp">//快读
-inline int read()
-{
-    int x = 0, c = getchar();
-    return x;
-}
-</code></pre>
-</details>
-
----
 
 ```cpp
 inline int read()
@@ -19,8 +7,8 @@ inline int read()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA2NjI4ODgsMTkwNjM1ODU2MCw0OD
-kzNzgwNjcsLTg0NTMyNTgwNiwtMjA0MTg1NTM5MywxNzk1OTE0
-MDE4LC05ODkxMzc2MzcsLTUxMDM3NDg4NSwtMTE0ODcwOTIyOC
-wtMTc5OTk4MzMwMl19
+eyJoaXN0b3J5IjpbMzA4NzIwMzMxLC0xNDUwNjYyODg4LDE5MD
+YzNTg1NjAsNDg5Mzc4MDY3LC04NDUzMjU4MDYsLTIwNDE4NTUz
+OTMsMTc5NTkxNDAxOCwtOTg5MTM3NjM3LC01MTAzNzQ4ODUsLT
+ExNDg3MDkyMjgsLTE3OTk5ODMzMDJdfQ==
 -->

@@ -1,0 +1,28 @@
+---
+---
+
+@import "jekyll-theme-merlot";
+
+/* 加宽 Merlot 页面主体 */
+div.shell {
+  width: min(1100px, 96%);
+}
+
+section#main_content {
+  padding-left: clamp(24px, 6vw, 82px);
+  padding-right: clamp(24px, 6vw, 82px);
+}
+
+/* 让标题和页脚也适应加宽后的布局 */
+header {
+  max-width: min(1000px, 90%);
+}
+
+footer {
+  max-width: min(960px, 90%);
+}
+
+/* 表格内容较宽时允许横向滚动 */
+section#main_content {
+  overflow-x: auto;
+}

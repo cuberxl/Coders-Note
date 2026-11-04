@@ -1,5 +1,13 @@
 
-### 基本算法
+## 基本算法
+
+[**返回上一页**](https://cuberxl.github.io/Coders-Note/)
+
+[**返回首页**](https://cuberxl.github.io/Coders-Note/)
+
+---
+
+#### 基本算法
 
 > 基础算法思想与模板
 
@@ -14,7 +22,7 @@
 
 ---
 
-## 📌 跳转链接
+#### 跳转链接
 
 - [2.1 排序算法](https://cuberxl.github.io/Coders-Note/2-基本算法/2.1-排序算法)
 - [2.2 二分查找](https://cuberxl.github.io/Coders-Note/2-基本算法/2.2-二分查找)
@@ -23,5 +31,5 @@
 - [2.5 双指针算法](https://cuberxl.github.io/Coders-Note/2-基本算法/2.5-双指针算法)
 - [2.6 离散化](https://cuberxl.github.io/Coders-Note/2-基本算法/2.6-离散化)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTY3NDk4OF19
+eyJoaXN0b3J5IjpbLTExMjQ2MTg0MjFdfQ==
 -->

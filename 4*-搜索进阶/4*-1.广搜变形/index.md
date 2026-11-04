@@ -1,25 +1,25 @@
 
-### 图论
+## 广搜变形
 
-> 图的基础与最短路算法
+[**返回上一页**](https://cuberxl.github.io/Coders-Note/4*-搜索进阶/)
 
-| 编号 | 简介 |
-| :--- | :--- |
-| 5.1 | 邻接表存储与遍历 |
-| 5.2 | DAG 拓扑序、入度队列维护 |
-| 5.3 | 最短路算法（Dijkstra、Bellman-Ford、SPFA、Floyd） |
-| 5.4 | 最小生成树（Prim、Kruskal） |
-| 5.5 | 二分图（染色法、匈牙利算法） |
+[**返回首页**](https://cuberxl.github.io/Coders-Note/)
 
 ---
 
-## 📌 跳转链接
+#### 广搜变形
 
-- [5.1 树与图的存储与遍历](https://cuberxl.github.io/Coders-Note/5-图论/5.1-树与图的存储与遍历)
-- [5.2 拓扑排序](https://cuberxl.github.io/Coders-Note/5-图论/5.2-拓扑排序)
-- [5.3 最短路算法](https://cuberxl.github.io/Coders-Note/5-图论/5.3-最短路算法/)
-- [5.4 最小生成树](https://cuberxl.github.io/Coders-Note/5-图论/5.4-最小生成树)
-- [5.5 二分图](https://cuberxl.github.io/Coders-Note/5-图论/5.5-二分图)
+> BFS 算法的扩展应用
+
+| 编号 | 简介 |
+| :--- | :--- |
+| 4\*.1.1 | 双端队列 BFS（0-1 BFS） |
+
+---
+
+#### 跳转链接
+
+- [4\*.1.1 双端队列 BFS](https://cuberxl.github.io/Coders-Note/4*-搜索进阶/4*-1-广搜变形/4*-1-1-双端队列BFS)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjQ1OTM0M119
+eyJoaXN0b3J5IjpbLTE5NjY4NTE0MTFdfQ==
 -->

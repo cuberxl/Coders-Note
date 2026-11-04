@@ -1,5 +1,13 @@
 
-### 搜索
+## 搜索
+
+[**返回上一页**](https://cuberxl.github.io/Coders-Note/)
+
+[**返回首页**](https://cuberxl.github.io/Coders-Note/)
+
+---
+
+#### 搜索
 
 > DFS 与 BFS
 
@@ -10,10 +18,10 @@
 
 ---
 
-## 📌 跳转链接
+#### 跳转链接
 
 - [4.1 深度优先搜索 DFS](https://cuberxl.github.io/Coders-Note/4-搜索/4.1-深度优先搜索DFS)
 - [4.2 广度优先搜索 BFS](https://cuberxl.github.io/Coders-Note/4-搜索/4.2-广度优先搜索BFS)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODcwNzc0MTVdfQ==
+eyJoaXN0b3J5IjpbMTc2NjMyMjY3Nl19
 -->

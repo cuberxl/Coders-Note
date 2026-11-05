@@ -10,11 +10,32 @@ window.MathJax = {
   }
 };
 </script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js" defer></script>
 <script>
-  mermaid.initialize({ startOnLoad: true });
+document.addEventListener("DOMContentLoaded", async function () {
+  document
+    .querySelectorAll(".highlighter-rouge code.language-mermaid")
+    .forEach(function (code) {
+      const block = code.closest(".highlighter-rouge");
+      if (!block) return;
+
+      const diagram = document.createElement("div");
+      diagram.className = "mermaid";
+      diagram.textContent = code.textContent;
+      block.replaceWith(diagram);
+    });
+
+  if (window.mermaid) {
+    mermaid.initialize({ startOnLoad: false });
+    await mermaid.run({ querySelector: ".mermaid" });
+  }
+});
 </script>
 
 <script src="{{ '/assets/js/collapsible-code.js' | relative_url }}" defer></script>

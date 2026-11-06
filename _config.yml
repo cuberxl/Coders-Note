@@ -1,12 +1,103 @@
-title: Coders-Note
-description: 编程学习笔记
+# ========================================================
+# 1. 网站基础信息
+# ========================================================
+locale: "zh-CN"
+title: "Coders-Note"
+title_separator: "-"
+description: "编程学习笔记"
+url: "https://cuberxl.github.io"
+baseurl: "/Coders-Note" 
+repository: "cuberxl/Coders-Note"
 
-theme: jekyll-theme-primer
+# ========================================================
+# 2. 主题与皮肤
+# ========================================================
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark" 
+# 可选: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# ========================================================
+# 3. 解析器与核心插件（极其重要，少一个都会报错）
+# ========================================================
 markdown: kramdown
-kramdown:
-  math_engine: mathjax
-  enable_coderay: false
-  input: GFM
+highlighter: rouge
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
+# ========================================================
+# 4. 扩展功能（数学公式 & Mermaid 图表 & HTML嵌套）
+# ========================================================
 mermaid: true
+mermaid_config:
+  startOnLoad: true
+  theme: 'dark'
+
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  parse_block_html: true # 允许解析 <details> 等 HTML 标签内的 Markdown
+
+# ========================================================
+# 5. 作者信息与侧边栏
+# ========================================================
+author:
+  name: "cuberxl"
+  avatar: "/assets/images/avatar.png" # 如果没有头像，暂时注释掉这一行
+  bio: "算法竞赛 / C++ / 折腾博客"
+  location: "China"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cuberxl"
+
+# ========================================================
+# 6. 默认布局（最核心部分）
+# ========================================================
+defaults:
+  # _posts 文件夹下的文章
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false # 如果需要评论，稍后配置
+      share: true
+      related: true
+  # 其他页面
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# ========================================================
+# 7. 导航栏设置 (可选，需配合 _data/navigation.yml)
+# ========================================================
+# 如果你想在顶部加“首页”、“关于”等按钮，需要在根目录建一个 _data/navigation.yml
+
+# ========================================================
+# 8. 其他杂项设置
+# ========================================================
+# 搜索功能
+search: true
+search_full_content: true
+
+# 首页分页设置
+paginate: 5 
+paginate_path: /page:num/
+
+# 时间格式
+date_format: "%Y-%m-%d"
+
+# 关闭默认的右侧栏，让排版更宽
+# sidebar: 
+#   nav: "docs"

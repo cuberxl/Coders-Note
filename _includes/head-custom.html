@@ -1,3 +1,4 @@
+<!-- MathJax 配置：行内公式 $...$ 或 \(...\)，块级公式 $$...$$ 或 \[...\] -->
 <script>
   window.MathJax = {
     tex: {
@@ -30,17 +31,37 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+<!-- Mermaid 图表库 -->
 <script
   src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"
   defer>
 </script>
 
+<!-- Mermaid 图表容器样式 -->
+<style>
+  .markdown-body .mermaid {
+    box-sizing: border-box;
+    margin: 1.5rem 0;
+    padding: 1.25rem;
+    overflow-x: auto;
+    text-align: center;
+    background: linear-gradient(135deg, #f8fafc, #eef2ff);
+    border: 1px solid #dbe3f0;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(30, 41, 59, 0.06);
+  }
+
+  .markdown-body .mermaid svg {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+</style>
+
+<!-- 将 Mermaid 代码块转换并渲染为图表 -->
 <script>
   document.addEventListener('DOMContentLoaded', async function () {
-    /*
-     * Rouge/Kramdown 可能把 language-mermaid 类放在外层 div，
-     * 也可能放在 code 元素上。选择最外层匹配元素，避免重复处理。
-     */
     const mermaidBlocks = Array.from(
       document.querySelectorAll('.language-mermaid')
     ).filter(function (element) {
@@ -66,29 +87,46 @@
       container.replaceWith(diagram);
     });
 
+    const diagrams = document.querySelectorAll('.markdown-body .mermaid');
+
+    if (diagrams.length === 0) return;
+
     if (!window.mermaid) {
       console.error('Mermaid 加载失败，请检查 CDN 或网络连接。');
       return;
     }
 
-    const diagrams = document.querySelectorAll('.mermaid');
-
-    if (diagrams.length === 0) {
-      return;
-    }
-
     window.mermaid.initialize({
       startOnLoad: false,
-      theme: 'default',
-      securityLevel: 'strict'
+      theme: 'base',
+      securityLevel: 'strict',
+      themeVariables: {
+        fontFamily: 'system-ui, -apple-system, "Segoe UI", sans-serif',
+        fontSize: '16px',
+        background: '#f8fafc',
+        primaryColor: '#e0e7ff',
+        primaryTextColor: '#1e293b',
+        primaryBorderColor: '#6366f1',
+        lineColor: '#64748b',
+        secondaryColor: '#dcfce7',
+        tertiaryColor: '#ffedd5',
+        edgeLabelBackground: '#ffffff'
+      },
+      flowchart: {
+        curve: 'basis',
+        nodeSpacing: 45,
+        rankSpacing: 60,
+        padding: 16
+      }
     });
 
     try {
-      await window.mermaid.run({
-        nodes: diagrams
-      });
+      await window.mermaid.run({ nodes: diagrams });
     } catch (error) {
       console.error('Mermaid 图表渲染失败：', error);
     }
   });
 </script>
+
+<!-- C++ 代码折叠脚本 -->
+<script src="{{ '/assets/js/collapsible-code.js' | relative_url }}" defer></script>

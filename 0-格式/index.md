@@ -15,6 +15,7 @@
 | 0.1 | $\LaTeX$ 数学符号对照 |
 | 0.2 | Markdown 语法速查 |
 | 0.3 | Mermaid 图表语法速查 |
+| 0.4 | C++ 代码的缩进、空格与高亮约定 |
 
 ---
 
@@ -23,9 +24,10 @@
 ```mermaid
 flowchart LR
     R(["格式参考"])
-    R --> N1(["$LaTeX$ 格式符<br/>LaTeX 数学符号对照"])
+    R --> N1(["LaTeX 格式符<br/>LaTeX 数学符号对照"])
     R --> N2(["Markdown 格式符<br/>Markdown 语法速查"])
     R --> N3(["Mermaid 格式符<br/>Mermaid 图表语法速查"])
+    R --> N4(["代码格式<br/>C++ 代码的缩进、空格与高亮约定"])
 ```
 
 ---
@@ -35,3 +37,4 @@ flowchart LR
 - [0.1 $\LaTeX$ 格式符](https://cuberxl.github.io/Coders-Note/0-格式/LaTeX格式符)
 - [0.2 Markdown 格式符](https://cuberxl.github.io/Coders-Note/0-格式/Markdown格式符)
 - [0.3 Mermaid 格式符](https://cuberxl.github.io/Coders-Note/0-格式/Mermaid格式符)
+- [0.4 代码格式](https://cuberxl.github.io/Coders-Note/0-格式/代码格式)

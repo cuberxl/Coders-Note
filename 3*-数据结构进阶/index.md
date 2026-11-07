@@ -1,5 +1,13 @@
 
-### 数据结构进阶
+## 数据结构进阶
+
+[**返回上一页**](https://cuberxl.github.io/Coders-Note/)
+
+[**返回首页**](https://cuberxl.github.io/Coders-Note/)
+
+---
+
+#### 数据结构进阶
 
 > 基础数据结构的扩展与高级应用
 
@@ -11,11 +19,11 @@
 
 ---
 
-## 📌 跳转链接
+#### 跳转链接
 
 - [3\*.1 并查集](https://cuberxl.github.io/Coders-Note/3*-数据结构进阶/3*.1-并查集)
 - [3\*.2 树状数组](https://cuberxl.github.io/Coders-Note/3*-数据结构进阶/3*.2-树状数组)
 - [3\*.3 线段树](https://cuberxl.github.io/Coders-Note/3*-数据结构进阶/3*.3-线段树)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkxOTQ3MjFdfQ==
+eyJoaXN0b3J5IjpbLTQwNDU3ODg5NF19
 -->

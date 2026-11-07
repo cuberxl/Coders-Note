@@ -17,6 +17,17 @@
 
 ---
 
+#### 章节结构
+
+```mermaid
+flowchart LR
+    R(["搜索"])
+    R --> N1(["深度优先搜索 DFS"])
+    R --> N2(["广度优先搜索 BFS"])
+```
+
+---
+
 #### 跳转链接
 
 - [4.1 深度优先搜索 DFS](https://cuberxl.github.io/Coders-Note/4-搜索/4.1-深度优先搜索DFS)

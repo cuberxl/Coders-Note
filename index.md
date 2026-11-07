@@ -12,19 +12,41 @@
 
 ---
 
+#### 全站结构
+
+```mermaid
+flowchart LR
+    R(["编程学习笔记"])
+    R --> A1(["基本语法"])
+    R --> A2(["基本算法"])
+    R --> A3(["数据结构"])
+    R --> A4(["数据结构进阶"])
+    R --> A5(["搜索"])
+    R --> A6(["图论"])
+    R --> A7(["图论进阶"])
+    R --> A8(["动态规划"])
+    R --> A9(["动态规划进阶"])
+    R --> A10(["贪心"])
+    R --> A11(["数学"])
+```
+
+---
+
 #### 笔记目录
 
-- [1. 基本语法](https://cuberxl.github.io/Coders-Note/1-基本语法/)
-- [2. 基本算法](https://cuberxl.github.io/Coders-Note/2-基本算法/)
-- [3. 数据结构](https://cuberxl.github.io/Coders-Note/3-数据结构/)
-- [3\*. 数据结构进阶](https://cuberxl.github.io/Coders-Note/3*-数据结构进阶/)
-- [4. 搜索](https://cuberxl.github.io/Coders-Note/4-搜索/)
-- [5. 图论](https://cuberxl.github.io/Coders-Note/5-图论/)
-- [5\*. 图论进阶](https://cuberxl.github.io/Coders-Note/5*-图论进阶/)
-- [6. 动态规划](https://cuberxl.github.io/Coders-Note/6-动态规划/)
-- [6\*. 动态规划进阶](https://cuberxl.github.io/Coders-Note/6*-动态规划进阶/)
-- [7. 贪心](https://cuberxl.github.io/Coders-Note/7-贪心/)
-- [8. 数学](https://cuberxl.github.io/Coders-Note/8-数学/)
+| 编号 | 章节 | 跳转 |
+| :--- | :--- | :--- |
+| 1 | 基本语法 | [进入](https://cuberxl.github.io/Coders-Note/1-基本语法/) |
+| 2 | 基本算法 | [进入](https://cuberxl.github.io/Coders-Note/2-基本算法/) |
+| 3 | 数据结构 | [进入](https://cuberxl.github.io/Coders-Note/3-数据结构/) |
+| 3\* | 数据结构进阶 | [进入](https://cuberxl.github.io/Coders-Note/3*-数据结构进阶/) |
+| 4 | 搜索 | [进入](https://cuberxl.github.io/Coders-Note/4-搜索/) |
+| 5 | 图论 | [进入](https://cuberxl.github.io/Coders-Note/5-图论/) |
+| 5\* | 图论进阶 | [进入](https://cuberxl.github.io/Coders-Note/5*-图论进阶/) |
+| 6 | 动态规划 | [进入](https://cuberxl.github.io/Coders-Note/6-动态规划/) |
+| 6\* | 动态规划进阶 | [进入](https://cuberxl.github.io/Coders-Note/6*-动态规划进阶/) |
+| 7 | 贪心 | [进入](https://cuberxl.github.io/Coders-Note/7-贪心/) |
+| 8 | 数学 | [进入](https://cuberxl.github.io/Coders-Note/8-数学/) |
 
 ---
 

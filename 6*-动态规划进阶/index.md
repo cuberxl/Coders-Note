@@ -19,9 +19,22 @@
 
 ---
 
+#### 章节结构
+
+```mermaid
+flowchart LR
+    R(["动态规划进阶"])
+    R --> N1(["6\*.1 数字三角形模型"])
+    R --> N2(["6\*.2 最长上升子序列模型 ( LIS )"])
+    R --> N3(["6\*.3 背包 DP 拓展"])
+    R --> N4(["6\*.4 区间 DP 拓展"])
+```
+
+---
+
 #### 跳转链接
 
 - [6\*.1 数字三角形模型](https://cuberxl.github.io/Coders-Note/6*-动态规划进阶/6*.1-数字三角形模型)
-- [6\*.2 最长上升子序列模型 ( LIS )](https://cuberxl.github.io/Coders-Note/6*-动态规划进阶/6*.2-最长上升子序列模型 ( LIS ))
+- [6\*.2 最长上升子序列模型 ( LIS )](https://cuberxl.github.io/Coders-Note/6*-动态规划进阶/6*.2-最长上升子序列模型（LIS）)
 - [6\*.3 背包 DP 拓展](https://cuberxl.github.io/Coders-Note/6*-动态规划进阶/6*.3-背包DP拓展)
 - [6\*.4 区间 DP 拓展](https://cuberxl.github.io/Coders-Note/6*-动态规划进阶/6*.4-区间DP拓展)

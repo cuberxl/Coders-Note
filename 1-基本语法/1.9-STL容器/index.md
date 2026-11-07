@@ -21,6 +21,21 @@
 
 ---
 
+#### 章节结构
+
+```mermaid
+flowchart LR
+    R(["STL 容器"])
+    R --> N1(["动态数组 vector"])
+    R --> N2(["队列、堆、栈"])
+    R --> N3(["双端队列 deque"])
+    R --> N4(["集合 set"])
+    R --> N5(["映射 map"])
+    R --> N6(["元组 tuple"])
+```
+
+---
+
 #### 跳转链接
 
 - [1.9.1 动态数组 vector](https://cuberxl.github.io/Coders-Note/1-基本语法/1.9-STL容器/1.9.1-动态数组vector)

@@ -16,6 +16,16 @@
 
 ---
 
+#### 章节结构
+
+```mermaid
+flowchart LR
+    R(["广搜变形"])
+    R --> N1(["4\*.1.1 双端队列 BFS"])
+```
+
+---
+
 #### 跳转链接
 
 - [4\*.1.1 双端队列 BFS](https://cuberxl.github.io/Coders-Note/4*-搜索进阶/4*.1-广搜变形/4*.1.1-双端队列BFS)

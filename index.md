@@ -22,6 +22,7 @@ flowchart LR
     R --> A3(["数据结构"])
     R --> A4(["数据结构进阶"])
     R --> A5(["搜索"])
+    R --> A5b(["搜索进阶"])
     R --> A6(["图论"])
     R --> A7(["图论进阶"])
     R --> A8(["动态规划"])
@@ -36,11 +37,13 @@ flowchart LR
 
 | 编号 | 章节 | 跳转 |
 | :--- | :--- | :--- |
+| 0 | 格式参考 | [进入](https://cuberxl.github.io/Coders-Note/0-格式/) |
 | 1 | 基本语法 | [进入](https://cuberxl.github.io/Coders-Note/1-基本语法/) |
 | 2 | 基本算法 | [进入](https://cuberxl.github.io/Coders-Note/2-基本算法/) |
 | 3 | 数据结构 | [进入](https://cuberxl.github.io/Coders-Note/3-数据结构/) |
 | 3\* | 数据结构进阶 | [进入](https://cuberxl.github.io/Coders-Note/3*-数据结构进阶/) |
 | 4 | 搜索 | [进入](https://cuberxl.github.io/Coders-Note/4-搜索/) |
+| 4\* | 搜索进阶 | [进入](https://cuberxl.github.io/Coders-Note/4*-搜索进阶/) |
 | 5 | 图论 | [进入](https://cuberxl.github.io/Coders-Note/5-图论/) |
 | 5\* | 图论进阶 | [进入](https://cuberxl.github.io/Coders-Note/5*-图论进阶/) |
 | 6 | 动态规划 | [进入](https://cuberxl.github.io/Coders-Note/6-动态规划/) |

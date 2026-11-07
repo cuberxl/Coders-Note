@@ -15,6 +15,9 @@
 | 5\*.1 | 单源最短路的深入应用 ( 如差分约束、分层图等 ) |
 | 5\*.2 | Floyd 算法的拓展应用 ( 如传递闭包等 ) |
 | 5\*.5 | Tarjan 算法及其应用 |
+| 5\*.10 | 差分约束 |
+| 5\*.11 | 分层图最短路 |
+| 5\*.13 | 最短路计数问题 |
 
 ---
 
@@ -23,9 +26,12 @@
 ```mermaid
 flowchart LR
     R(["图论进阶"])
-    R --> N1(["5\*.1 单源最短路"])
-    R --> N2(["5\*.2 Floyd算法拓展"])
-    R --> N3(["5\*.5 Tarjan算法"])
+    R --> N1(["单源最短路"])
+    R --> N2(["Floyd算法拓展"])
+    R --> N3(["Tarjan算法"])
+    R --> N4(["差分约束"])
+    R --> N5(["分层图最短路"])
+    R --> N6(["最短路计数问题"])
 ```
 
 ---
@@ -35,3 +41,6 @@ flowchart LR
 - [5\*.1 单源最短路](https://cuberxl.github.io/Coders-Note/5*-图论进阶/5*.1-单源最短路/)
 - [5\*.2 Floyd算法拓展](https://cuberxl.github.io/Coders-Note/5*-图论进阶/5*.2-Floyd算法拓展)
 - [5\*.5 Tarjan算法](https://cuberxl.github.io/Coders-Note/5*-图论进阶/5*.5-Tarjan算法/)
+- [5\*.10 差分约束](https://cuberxl.github.io/Coders-Note/5*-图论进阶/5*.10-差分约束)
+- [5\*.11 分层图最短路](https://cuberxl.github.io/Coders-Note/5*-图论进阶/5*.11-分层图最短路)
+- [5\*.13 最短路计数问题](https://cuberxl.github.io/Coders-Note/5*-图论进阶/5*.13-最短路计数问题)

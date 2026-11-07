@@ -1,4 +1,3 @@
-
 ## 初等数论
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/8-数学/)
@@ -32,6 +31,3 @@
 - [8.1.5 快速幂](https://cuberxl.github.io/Coders-Note/8-数学/8.1-初等数论/8.1.5-快速幂)
 - [8.1.6 扩展欧几里得算法](https://cuberxl.github.io/Coders-Note/8-数学/8.1-初等数论/8.1.6-扩展欧几里得算法)
 - [8.1.7 中国剩余定理](https://cuberxl.github.io/Coders-Note/8-数学/8.1-初等数论/8.1.7-中国剩余定理)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzE1Mjc2NF19
--->

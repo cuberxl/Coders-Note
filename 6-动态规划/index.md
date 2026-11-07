@@ -1,4 +1,3 @@
-
 ## 动态规划
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
@@ -34,6 +33,3 @@
 - [6.6 状态压缩 DP](https://cuberxl.github.io/Coders-Note/6-动态规划/6.6-状态压缩DP)
 - [6.7 树形 DP](https://cuberxl.github.io/Coders-Note/6-动态规划/6.7-树形DP)
 - [6.8 记忆化搜索](https://cuberxl.github.io/Coders-Note/6-动态规划/6.8-记忆化搜索)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg5NzkyMjFdfQ==
--->

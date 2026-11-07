@@ -1,4 +1,3 @@
-
 ## 最小生成树算法
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/5-图论/)
@@ -24,7 +23,7 @@
 ```mermaid
 graph LR
     A([最小生成树]) --> B{稠密 or 稀疏}
-    
+
     B -- 稠密图 --> C[/朴素 Prim/]
     B -- 稀疏图 --> D[/Kruskal/]
     B -- 稀疏图 --> E[/堆优化 Prim/]
@@ -36,6 +35,3 @@ graph LR
 
 - [5.4.1 Prim算法](https://cuberxl.github.io/Coders-Note/5-图论/5.4-最小生成树/5.4.1-Prim算法)
 - [5.4.2 Kruskal算法](https://cuberxl.github.io/Coders-Note/5-图论/5.4-最小生成树/5.4.2-Kruskal算法)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTEwMjQyLDU5NzIwNDA5Nl19
--->

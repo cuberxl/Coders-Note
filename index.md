@@ -1,4 +1,8 @@
-# 编程学习笔记
+## 编程学习笔记
+
+---
+
+#### 编程学习笔记
 
 本笔记库基于 C++ 语言构建，旨在系统性地梳理算法竞赛与数据结构领域的核心知识体系。
 
@@ -8,7 +12,7 @@
 
 ---
 
-## 笔记目录
+#### 笔记目录
 
 - [1. 基本语法](https://cuberxl.github.io/Coders-Note/1-基本语法/)
 - [2. 基本算法](https://cuberxl.github.io/Coders-Note/2-基本算法/)
@@ -24,14 +28,8 @@
 
 ---
 
-### 作者：cuberxl
+#### 作者：cuberxl
 
 > 笔者知识储备有限，疏漏与不足之处敬请指正。
 >
 > *参考资料：Acwing 算法基础课 / 《算法竞赛进阶指南》 / OI Wiki*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODI5NzM4MywtMTk4NTQ2MjcxNSwtMT
-k4NTQ2MjcxNSwtNDM3NDM3NjkxLDE5Mzk1OTY3MiwxNjAyMDQ0
-NzQ2LC0xMzMwODU5NjQ0LDUzNDUyMDU4NSwxMDc1NzExNDc5XX
-0=
--->

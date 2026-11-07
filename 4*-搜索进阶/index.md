@@ -1,7 +1,6 @@
-
 ## 搜索进阶
 
-[**返回上一页**](https://cuberxl.github.io/Coders-Note/4-搜索/)
+[**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
 [**返回首页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -20,6 +19,3 @@
 #### 跳转链接
 
 - [4\*.1 广搜变形](https://cuberxl.github.io/Coders-Note/4*-搜索进阶/4*.1-广搜变形/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4NjM2ODU1XX0=
--->

@@ -1,4 +1,3 @@
-
 ## 基本算法
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
@@ -30,6 +29,3 @@
 - [2.4 前缀和、差分](https://cuberxl.github.io/Coders-Note/2-基本算法/2.4-前缀和、差分)
 - [2.5 双指针算法](https://cuberxl.github.io/Coders-Note/2-基本算法/2.5-双指针算法)
 - [2.6 离散化](https://cuberxl.github.io/Coders-Note/2-基本算法/2.6-离散化)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ2MTg0MjFdfQ==
--->

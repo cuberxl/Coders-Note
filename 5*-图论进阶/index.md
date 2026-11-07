@@ -1,6 +1,6 @@
 ## 图论进阶
 
-[**返回上一页**](https://cuberxl.github.io/Coders-Note/5-图论/)
+[**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
 [**返回首页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -23,6 +23,3 @@
 - [5\*.1 单源最短路](https://cuberxl.github.io/Coders-Note/5*-图论进阶/5*.1-单源最短路/)
 - [5\*.2 Floyd算法拓展](https://cuberxl.github.io/Coders-Note/5*-图论进阶/5*.2-Floyd算法拓展)
 - [5\*.5 Tarjan算法](https://cuberxl.github.io/Coders-Note/5*-图论进阶/5*.5-Tarjan算法/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzgxMjEwMF19
--->

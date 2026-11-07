@@ -1,3 +1,12 @@
+## test
+
+[**返回上一页**](https://cuberxl.github.io/Coders-Note/)
+
+[**返回首页**](https://cuberxl.github.io/Coders-Note/)
+
+---
+
+#### test
 
 ```cpp
 inline int read()
@@ -6,9 +15,3 @@ inline int read()
     return x;
 }
 ```
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4NzIwMzMxLC0xNDUwNjYyODg4LDE5MD
-YzNTg1NjAsNDg5Mzc4MDY3LC04NDUzMjU4MDYsLTIwNDE4NTUz
-OTMsMTc5NTkxNDAxOCwtOTg5MTM3NjM3LC01MTAzNzQ4ODUsLT
-ExNDg3MDkyMjgsLTE3OTk5ODMzMDJdfQ==
--->

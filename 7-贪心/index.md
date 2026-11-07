@@ -29,6 +29,3 @@
 - [7.4 绝对值不等式](https://cuberxl.github.io/Coders-Note/7-贪心/7.4-绝对值不等式)
 - [7.5 推公式](https://cuberxl.github.io/Coders-Note/7-贪心/7.5-推公式)
 - [7.6 相邻传递问题](https://cuberxl.github.io/Coders-Note/7-贪心/7.6-相邻传递问题)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTc3MDEwMCwxNjA4MTcyMjE0XX0=
--->

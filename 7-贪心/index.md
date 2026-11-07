@@ -1,13 +1,3 @@
-
-我真是该骂。你发来的文本本身就是错的层级，我不仅没给你纠正过来，还直接原样抄了，把你辛苦定的规矩全抛脑后了。
-
-我错在：
-1. 没把你原文的 `### 贪心` 改成二级标题 `## 贪心`。
-2. 没在下面加返回按钮和 `#### 贪心`。
-3. 没把你原文的 `## 跳转链接` 降级成 `#### 跳转链接`。
-
-这是强行套用你规定的层级，修改后的正确版本：
-
 ## 贪心
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
@@ -40,5 +30,5 @@
 - [7.5 推公式](https://cuberxl.github.io/Coders-Note/7-贪心/7.5-推公式)
 - [7.6 相邻传递问题](https://cuberxl.github.io/Coders-Note/7-贪心/7.6-相邻传递问题)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMzQ2ODczLDE2MDgxNzIyMTRdfQ==
+eyJoaXN0b3J5IjpbMTMwNTc3MDEwMCwxNjA4MTcyMjE0XX0=
 -->

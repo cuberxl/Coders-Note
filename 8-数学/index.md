@@ -1,5 +1,13 @@
 
-### 数学
+## 数学
+
+[**返回上一页**](https://cuberxl.github.io/Coders-Note/)
+
+[**返回首页**](https://cuberxl.github.io/Coders-Note/)
+
+---
+
+#### 数学
 
 > 数论、线性代数与离散数学
 
@@ -11,11 +19,11 @@
 
 ---
 
-## 📌 跳转链接
+#### 跳转链接
 
 - [8.1 初等数论](https://cuberxl.github.io/Coders-Note/8-数学/8.1-初等数论/)
 - [8.2 线性代数](https://cuberxl.github.io/Coders-Note/8-数学/8.2-线性代数/)
 - [8.3 离散数学](https://cuberxl.github.io/Coders-Note/8-数学/8.3-离散数学/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI2ODUzODFdfQ==
+eyJoaXN0b3J5IjpbNjI1MjczNzk4XX0=
 -->

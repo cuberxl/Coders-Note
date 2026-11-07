@@ -1,14 +1,14 @@
 <script>
-window.MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
-    displayMath: [['$$', '$$'], ['\\[', '\\]']],
-    processEscapes: true
-  },
-  options: {
-    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-  }
-};
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    }
+  };
 </script>
 <script
   id="MathJax-script"
@@ -18,24 +18,30 @@ window.MathJax = {
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js" defer></script>
 <script>
-document.addEventListener("DOMContentLoaded", async function () {
-  document
-    .querySelectorAll(".highlighter-rouge code.language-mermaid")
-    .forEach(function (code) {
-      const block = code.closest(".highlighter-rouge");
-      if (!block) return;
+  document.addEventListener("DOMContentLoaded", function () {
+    const findMermaidBlocks = () => {
+      document.querySelectorAll(".highlighter-rouge code.language-mermaid").forEach(function (code) {
+        const block = code.closest(".highlighter-rouge");
+        if (!block) return;
 
-      const diagram = document.createElement("div");
-      diagram.className = "mermaid";
-      diagram.textContent = code.textContent;
-      block.replaceWith(diagram);
-    });
+        const diagram = document.createElement("div");
+        diagram.className = "mermaid";
+        diagram.textContent = code.textContent;
+        block.replaceWith(diagram);
+      });
+    };
 
-  if (window.mermaid) {
-    mermaid.initialize({ startOnLoad: false });
-    await mermaid.run({ querySelector: ".mermaid" });
-  }
-});
+    findMermaidBlocks();
+
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: "default"
+      });
+
+      mermaid.run({
+        nodes: document.querySelectorAll(".mermaid")
+      });
+    }
+  });
 </script>
-
-<script src="{{ '/assets/js/collapsible-code.js' | relative_url }}" defer></script>

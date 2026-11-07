@@ -1,4 +1,13 @@
-### 离散数学
+
+## 离散数学
+
+[**返回上一页**](https://cuberxl.github.io/Coders-Note/8-数学/)
+
+[**返回首页**](https://cuberxl.github.io/Coders-Note/)
+
+---
+
+#### 离散数学
 
 > 组合计数与偏序关系
 
@@ -9,10 +18,10 @@
 
 ---
 
-## 📌 跳转链接
+#### 跳转链接
 
 - [8.3.1 组合计数](https://cuberxl.github.io/Coders-Note/8-数学/8.3-离散数学/8.3.1-组合计数)
 - [8.3.2 偏序关系与偏序集](https://cuberxl.github.io/Coders-Note/8-数学/8.3-离散数学/8.3.2-偏序关系与偏序集)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjIyMTY0MTBdfQ==
+eyJoaXN0b3J5IjpbMjAyMjc2NDE4M119
 -->

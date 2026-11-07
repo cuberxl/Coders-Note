@@ -27,34 +27,21 @@
 
 ---
 
-#### 知识框架
+#### 跳转链接
 
-```mermaid
-graph LR
-    A([基本语法]) --> B{头文件与库}
-    A --> C{运算符}
-    A --> D{变量类型}
-    A --> E{输入输出}
-    A --> F{数学函数}
-    A --> G{常用算法}
-    A --> H{类与结构体}
-    A --> I{指针与内存}
-    A --> J{STL容器}
-    A --> K{位运算}
-    A --> L{字符串流}
-
-    B --> B1[/bits/stdc++.h/]
-    C --> C1[/算术、关系、逻辑/]
-    D --> D1[/整型、浮点、字符/]
-    E --> E1[/cin/cout、scanf/printf/]
-    F --> F1[/abs、pow、sqrt/]
-    G --> G1[/sort、reverse、二分/]
-    H --> H1[/构造、继承、联合体/]
-    I --> I1[/指针运算、动态分配/]
-    J --> J1[/vector、set、map/]
-    K --> K1[/与或非异或、移位/]
-    L --> L1[/stringstream 格式化/]
+- [1.1 常用头文件](https://cuberxl.github.io/Coders-Note/1-基本语法/1.1-常用头文件)
+- [1.2 运算符](https://cuberxl.github.io/Coders-Note/1-基本语法/1.2-运算符)
+- [1.3 变量类型及修饰](https://cuberxl.github.io/Coders-Note/1-基本语法/1.3-变量类型及修饰)
+- [1.4 输入输出及转义字符](https://cuberxl.github.io/Coders-Note/1-基本语法/1.4-输入输出及转义字符)
+- [1.5 常用数学函数](https://cuberxl.github.io/Coders-Note/1-基本语法/1.5-常用数学函数)
+- [1.6 常用算法函数](https://cuberxl.github.io/Coders-Note/1-基本语法/1.6-常用算法函数)
+- [1.7 结构体、类、联合体](https://cuberxl.github.io/Coders-Note/1-基本语法/1.7-结构体、类、联合体)
+- [1.8 指针变量](https://cuberxl.github.io/Coders-Note/1-基本语法/1.8-指针变量)
+- [1.9 STL 容器](https://cuberxl.github.io/Coders-Note/1-基本语法/1.9-STL容器/)
+- [1.10 位运算](https://cuberxl.github.io/Coders-Note/1-基本语法/1.10-位运算)
+- [1.11 字符串流](https://cuberxl.github.io/Coders-Note/1-基本语法/1.11-字符串流)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM4OTc4MjEsLTE2OTE3NzMwODMsLT
-M5MTA2NzQzNSwxMzY5OTA1NDE4LC0xNzk2ODA3Nzc0XX0=
+eyJoaXN0b3J5IjpbLTE2OTE3NzMwODMsLTE5NjM4OTc4MjEsLT
+E2OTE3NzMwODMsLTM5MTA2NzQzNSwxMzY5OTA1NDE4LC0xNzk2
+ODA3Nzc0XX0=
 -->

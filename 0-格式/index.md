@@ -23,9 +23,9 @@
 ```mermaid
 flowchart LR
     R(["格式参考"])
-    R --> N1(["$\LaTeX$ 格式符"])
-    R --> N2(["Markdown 格式符"])
-    R --> N3(["Mermaid 格式符"])
+    R --> N1(["$LaTeX$ 格式符<br/>LaTeX 数学符号对照"])
+    R --> N2(["Markdown 格式符<br/>Markdown 语法速查"])
+    R --> N3(["Mermaid 格式符<br/>Mermaid 图表语法速查"])
 ```
 
 ---

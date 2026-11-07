@@ -1,4 +1,3 @@
-
 ## 基本语法
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
@@ -9,21 +8,23 @@
 
 #### 基本语法
 
-> C++ 语法基础与常用容器
+**概念**：本章覆盖 C++ 语言的语法基础与竞赛常用工具：头文件、运算符、变量类型、输入输出、数学函数、算法函数、自定义类型、指针、STL 容器、位运算与字符串流。
+
+**策略**：这些内容是后续所有算法篇章的前置条件，建议按顺序通读一遍，之后仅把本表当作速查索引。
 
 | 编号 | 简介 |
 | :--- | :--- |
-| 1.1 | 标准库头文件与 bits/stdc++.h |
-| 1.2 | 算术、关系、逻辑、位运算等 |
-| 1.3 | 整型/浮点/字符/布尔及 const/static 等 |
-| 1.4 | cin/cout、scanf/printf、转义字符 |
+| 1.1 | 标准库头文件与 `bits/stdc++.h` |
+| 1.2 | 算术、关系、逻辑、位运算等运算符 |
+| 1.3 | 整型/浮点/字符/布尔及 `const`、`static` 等修饰 |
+| 1.4 | `cin`/`cout`、`scanf`/`printf`、转义字符 |
 | 1.5 | 绝对值、对数、幂运算、取整、三角函数 |
-| 1.6 | sort、reverse、unique、二分查找、排列、内存操作 |
+| 1.6 | `sort`、`reverse`、`unique`、二分查找、排列、内存操作 |
 | 1.7 | 定义、构造/析构、继承多态、友元、静态成员、联合体 |
 | 1.8 | 指针运算、动态内存分配 |
-| 1.9 | STL 容器（vector、queue/stack、deque、set、map、tuple） |
+| 1.9 | STL 容器 ( `vector`、`queue`/`stack`、`deque`、`set`、`map`、`tuple` ) |
 | 1.10 | 与或非异或、移位、相关应用、集合操作 |
-| 1.11 | stringstream、格式化字符串流 |
+| 1.11 | `stringstream`、格式化字符串流 |
 
 ---
 
@@ -40,8 +41,3 @@
 - [1.9 STL 容器](https://cuberxl.github.io/Coders-Note/1-基本语法/1.9-STL容器/)
 - [1.10 位运算](https://cuberxl.github.io/Coders-Note/1-基本语法/1.10-位运算)
 - [1.11 字符串流](https://cuberxl.github.io/Coders-Note/1-基本语法/1.11-字符串流)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE3NzMwODMsLTE5NjM4OTc4MjEsLT
-E2OTE3NzMwODMsLTM5MTA2NzQzNSwxMzY5OTA1NDE4LC0xNzk2
-ODA3Nzc0XX0=
--->

@@ -32,19 +32,19 @@
 
 ```mermaid
 graph LR
-    A([最短路问题]) --> B{单源<br/>还是<br/>多源}
+    A([最短路问题]) --> B{单源 or 多源}
     
-    B -- 单源 --> C{边权<br/>是否全正}
+    B -- 单源 --> C{边权全正?}
     B -- 多源 --> D[/Floyd/]
     
-    C -- 是 --> E{图是<br/>稠密<br/>还是<br/>稀疏}
-    C -- 否 --> F{是否<br/>有边数<br/>限制}
+    C -- True --> E{稠密 or 稀疏}
+    C -- False --> F{有边数限制?}
     
-    E -- 稠密图 --> G[/朴素<br/>Dijkstra/]
-    E -- 稀疏图 --> H[/堆优化<br/>Dijkstra/]
+    E -- 稠密图 --> G[/朴素 Dijkstra/]
+    E -- 稀疏图 --> H[/堆优化 Dijkstra/]
     
-    F -- 是 --> I[/Bellman<br/>-Ford/]
-    F -- 否 --> J[/SPFA/]
+    F -- True --> I[/Bellman-Ford/]
+    F -- False --> J[/SPFA/]
 ```
 
 ---
@@ -56,5 +56,5 @@ graph LR
 - [5.3.3 SPFA算法](https://cuberxl.github.io/Coders-Note/5-图论/5.3-最短路算法/5.3.3-SPFA算法)
 - [5.3.4 Floyd算法](https://cuberxl.github.io/Coders-Note/5-图论/5.3-最短路算法/5.3.4-Floyd算法)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDUyMDE1ODJdfQ==
+eyJoaXN0b3J5IjpbLTEyNTYyNzQ2OTJdfQ==
 -->

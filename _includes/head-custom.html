@@ -37,7 +37,7 @@
   defer>
 </script>
 
-<!-- Mermaid 图表及 C++ 折叠样式 -->
+<!-- Mermaid 与折叠代码的样式 -->
 <style>
   .markdown-body .mermaid {
     box-sizing: border-box;
@@ -59,7 +59,7 @@
 
   .markdown-body .mermaid .node rect {
     fill: #eaf2ff !important;
-    stroke: #3b82f6 !important;
+    stroke: #1e40af !important;
     stroke-width: 1.5px !important;
   }
 
@@ -70,13 +70,13 @@
   }
 
   .markdown-body .mermaid .edgePath .path {
-    stroke: #64748b !important;
-    stroke-width: 1.8px;
+    stroke: #1e40af !important;
+    stroke-width: 2px;
   }
 
   .markdown-body .mermaid marker path {
-    fill: #64748b !important;
-    stroke: #64748b !important;
+    fill: #1e40af !important;
+    stroke: #1e40af !important;
   }
 
   .markdown-body details.collapsible-code {
@@ -102,7 +102,7 @@
   }
 </style>
 
-<!-- 将 Markdown 中的 Mermaid 代码块转换并渲染 -->
+<!-- Mermaid 代码块转换与渲染 -->
 <script>
   document.addEventListener('DOMContentLoaded', async function () {
     const mermaidBlocks = Array.from(
@@ -151,8 +151,8 @@
         background: '#f8fbff',
         primaryColor: '#eaf2ff',
         primaryTextColor: '#1e3a8a',
-        primaryBorderColor: '#3b82f6',
-        lineColor: '#64748b',
+        primaryBorderColor: '#1e40af',
+        lineColor: '#1e40af',
         secondaryColor: '#eaf2ff',
         tertiaryColor: '#eaf2ff',
         edgeLabelBackground: '#ffffff'
@@ -173,5 +173,5 @@
   });
 </script>
 
-<!-- 只负责 C++ 代码折叠 -->
+<!-- 只负责折叠 C++ 代码块 -->
 <script src="{{ '/assets/js/collapsible-code.js' | relative_url }}" defer></script>

@@ -1,4 +1,4 @@
-<!-- MathJax 配置：行内公式 $...$ 或 \(...\)，块级公式 $$...$$ 或 \[...\] -->
+<!-- MathJax 配置 -->
 <script>
   window.MathJax = {
     tex: {
@@ -31,13 +31,13 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-<!-- Mermaid 图表库 -->
+<!-- Mermaid 库 -->
 <script
   src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"
   defer>
 </script>
 
-<!-- Mermaid 图表容器样式 -->
+<!-- Mermaid 图表及 C++ 折叠样式 -->
 <style>
   .markdown-body .mermaid {
     box-sizing: border-box;
@@ -45,10 +45,9 @@
     padding: 1.25rem;
     overflow-x: auto;
     text-align: center;
-    background: linear-gradient(135deg, #f8fafc, #eef2ff);
-    border: 1px solid #dbe3f0;
-    border-radius: 12px;
-    box-shadow: 0 4px 14px rgba(30, 41, 59, 0.06);
+    background: #f8fbff;
+    border: 1px solid #d6e4ff;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.04);
   }
 
   .markdown-body .mermaid svg {
@@ -57,9 +56,53 @@
     height: auto;
     margin: 0 auto;
   }
+
+  .markdown-body .mermaid .node rect {
+    fill: #eaf2ff !important;
+    stroke: #3b82f6 !important;
+    stroke-width: 1.5px !important;
+  }
+
+  .markdown-body .mermaid .nodeLabel,
+  .markdown-body .mermaid .label {
+    color: #1e3a8a !important;
+    fill: #1e3a8a !important;
+  }
+
+  .markdown-body .mermaid .edgePath .path {
+    stroke: #64748b !important;
+    stroke-width: 1.8px;
+  }
+
+  .markdown-body .mermaid marker path {
+    fill: #64748b !important;
+    stroke: #64748b !important;
+  }
+
+  .markdown-body details.collapsible-code {
+    margin: 1rem 0;
+    overflow: hidden;
+    border: 1px solid #d8dee8;
+  }
+
+  .markdown-body details.collapsible-code > summary {
+    padding: 0.65rem 1rem;
+    cursor: pointer;
+    color: #334155;
+    background: #f1f5f9;
+    font-weight: 600;
+  }
+
+  .markdown-body details.collapsible-code[open] > summary {
+    border-bottom: 1px solid #d8dee8;
+  }
+
+  .markdown-body details.collapsible-code pre {
+    margin: 0;
+  }
 </style>
 
-<!-- 将 Mermaid 代码块转换并渲染为图表 -->
+<!-- 将 Markdown 中的 Mermaid 代码块转换并渲染 -->
 <script>
   document.addEventListener('DOMContentLoaded', async function () {
     const mermaidBlocks = Array.from(
@@ -87,7 +130,9 @@
       container.replaceWith(diagram);
     });
 
-    const diagrams = document.querySelectorAll('.markdown-body .mermaid');
+    const diagrams = document.querySelectorAll(
+      '.markdown-body .mermaid'
+    );
 
     if (diagrams.length === 0) return;
 
@@ -103,13 +148,13 @@
       themeVariables: {
         fontFamily: 'system-ui, -apple-system, "Segoe UI", sans-serif',
         fontSize: '16px',
-        background: '#f8fafc',
-        primaryColor: '#e0e7ff',
-        primaryTextColor: '#1e293b',
-        primaryBorderColor: '#6366f1',
+        background: '#f8fbff',
+        primaryColor: '#eaf2ff',
+        primaryTextColor: '#1e3a8a',
+        primaryBorderColor: '#3b82f6',
         lineColor: '#64748b',
-        secondaryColor: '#dcfce7',
-        tertiaryColor: '#ffedd5',
+        secondaryColor: '#eaf2ff',
+        tertiaryColor: '#eaf2ff',
         edgeLabelBackground: '#ffffff'
       },
       flowchart: {
@@ -128,5 +173,5 @@
   });
 </script>
 
-<!-- C++ 代码折叠脚本 -->
+<!-- 只负责 C++ 代码折叠 -->
 <script src="{{ '/assets/js/collapsible-code.js' | relative_url }}" defer></script>

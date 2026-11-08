@@ -27,23 +27,23 @@
 ```mermaid
 flowchart LR
     R(["数据结构"])
-    R --> N1(["单链表、双链表<br/>数组模拟链表，e/ne 存储与遍历"])
-    R --> N2(["单调栈、单调队列<br/>左边更小数、滑动窗口最值，O(n)"])
-    R --> N3(["KMP模式匹配<br/>next 数组计算、匹配过程、避免回溯"])
-    R --> N4(["Trie树<br/>字符串存储与查找…"])
-    R --> N5(["堆<br/>down/up 操作、建堆 O(n)…"])
-    R --> N6(["哈希表<br/>拉链法、开放寻址法、查找/插入/删除"])
-    R --> N7(["字符串哈希<br/>前缀哈希、子串查询"])
+    R --> N1(["3B.1 单链表、双链表"])
+    R --> N2(["3B.2 单调栈、单调队列"])
+    R --> N3(["3B.3 KMP模式匹配"])
+    R --> N4(["3B.4 Trie树"])
+    R --> N5(["3B.5 堆"])
+    R --> N6(["3B.6 哈希表"])
+    R --> N7(["3B.7 字符串哈希"])
 ```
 
 ---
 
 #### 跳转链接
 
-- [3B.1 单链表、双链表](https://cuberxl.github.io/Coders-Note/3B-数据结构/3.1-单链表、双链表)
-- [3B.2 单调栈、单调队列](https://cuberxl.github.io/Coders-Note/3B-数据结构/3.2-单调栈、单调队列)
-- [3B.3 KMP模式匹配](https://cuberxl.github.io/Coders-Note/3B-数据结构/3.3-KMP模式匹配)
-- [3B.4 Trie树](https://cuberxl.github.io/Coders-Note/3B-数据结构/3.4-Trie树)
-- [3B.5 堆](https://cuberxl.github.io/Coders-Note/3B-数据结构/3.5-堆)
-- [3B.6 哈希表](https://cuberxl.github.io/Coders-Note/3B-数据结构/3.6-哈希表)
-- [3B.7 字符串哈希](https://cuberxl.github.io/Coders-Note/3B-数据结构/3.7-字符串哈希)
+- [3B.1 单链表、双链表](https://cuberxl.github.io/Coders-Note/3B-数据结构/3B.1-单链表、双链表)
+- [3B.2 单调栈、单调队列](https://cuberxl.github.io/Coders-Note/3B-数据结构/3B.2-单调栈、单调队列)
+- [3B.3 KMP模式匹配](https://cuberxl.github.io/Coders-Note/3B-数据结构/3B.3-KMP模式匹配)
+- [3B.4 Trie树](https://cuberxl.github.io/Coders-Note/3B-数据结构/3B.4-Trie树)
+- [3B.5 堆](https://cuberxl.github.io/Coders-Note/3B-数据结构/3B.5-堆)
+- [3B.6 哈希表](https://cuberxl.github.io/Coders-Note/3B-数据结构/3B.6-哈希表)
+- [3B.7 字符串哈希](https://cuberxl.github.io/Coders-Note/3B-数据结构/3B.7-字符串哈希)

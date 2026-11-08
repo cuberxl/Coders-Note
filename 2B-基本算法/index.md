@@ -26,21 +26,21 @@
 ```mermaid
 flowchart LR
     R(["基本算法"])
-    R --> N1(["排序算法<br/>冒泡、选择、插入、快排、归并…"])
-    R --> N2(["二分查找<br/>整数二分两种模板、浮点数二分"])
-    R --> N3(["高精度算法<br/>大整数加减乘除，vector 低位存储"])
-    R --> N4(["前缀和、差分<br/>一维/二维前缀和构造与查询、差分区间加减"])
-    R --> N5(["双指针算法<br/>同向/相向双指针，滑动窗口"])
-    R --> N6(["离散化<br/>排序去重、二分映射…"])
+    R --> N1(["2B.1 排序算法"])
+    R --> N2(["2B.2 二分查找"])
+    R --> N3(["2B.3 高精度算法"])
+    R --> N4(["2B.4 前缀和、差分"])
+    R --> N5(["2B.5 双指针算法"])
+    R --> N6(["2B.6 离散化"])
 ```
 
 ---
 
 #### 跳转链接
 
-- [2B.1 排序算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/2.1-排序算法)
-- [2B.2 二分查找](https://cuberxl.github.io/Coders-Note/2B-基本算法/2.2-二分查找)
-- [2B.3 高精度算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/2.3-高精度算法)
-- [2B.4 前缀和、差分](https://cuberxl.github.io/Coders-Note/2B-基本算法/2.4-前缀和、差分)
-- [2B.5 双指针算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/2.5-双指针算法)
-- [2B.6 离散化](https://cuberxl.github.io/Coders-Note/2B-基本算法/2.6-离散化)
+- [2B.1 排序算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/2B.1-排序算法)
+- [2B.2 二分查找](https://cuberxl.github.io/Coders-Note/2B-基本算法/2B.2-二分查找)
+- [2B.3 高精度算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/2B.3-高精度算法)
+- [2B.4 前缀和、差分](https://cuberxl.github.io/Coders-Note/2B-基本算法/2B.4-前缀和、差分)
+- [2B.5 双指针算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/2B.5-双指针算法)
+- [2B.6 离散化](https://cuberxl.github.io/Coders-Note/2B-基本算法/2B.6-离散化)

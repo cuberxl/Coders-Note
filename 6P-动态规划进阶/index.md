@@ -35,6 +35,6 @@ flowchart LR
 #### 跳转链接
 
 - [6P.1 数字三角形模型](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/6P.1-数字三角形模型)
-- [6P.2 最长上升子序列模型 ( LIS )](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/6P.2-最长上升子序列模型（LIS）)
+- [6P.2 最长上升子序列模型 ( LIS )](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/6P.2-最长上升子序列模型（LIS）))
 - [6P.3 背包 DP 拓展](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/6P.3-背包DP拓展)
 - [6P.4 区间 DP 拓展](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/6P.4-区间DP拓展)

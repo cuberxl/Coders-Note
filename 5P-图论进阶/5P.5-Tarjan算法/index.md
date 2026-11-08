@@ -32,6 +32,6 @@ flowchart LR
 
 #### 跳转链接
 
-- [5P.5.1 强连通分量 ( SCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.5-Tarjan算法/5P.5.1-强连通分量（SCC）)
-- [5P.5.2 边双连通分量 ( e-DCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.5-Tarjan算法/5P.5.2-边双连通分量（e-DCC）)
-- [5P.5.3 点双连通分量 ( v-DCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.5-Tarjan算法/5P.5.3-点双连通分量（v-DCC）)
+- [5P.5.1 强连通分量 ( SCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.5-Tarjan算法/5P.5.1-强连通分量（SCC）))
+- [5P.5.2 边双连通分量 ( e-DCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.5-Tarjan算法/5P.5.2-边双连通分量（e-DCC）))
+- [5P.5.3 点双连通分量 ( v-DCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.5-Tarjan算法/5P.5.3-点双连通分量（v-DCC）))

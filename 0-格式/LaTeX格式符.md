@@ -319,7 +319,7 @@
 
 ---
 
-#### 十七、环境（Environment）
+#### 十七、环境 ( Environment )
 
 **基本语法**：
 ```latex
@@ -328,7 +328,9 @@
 \end{环境名称}
 ```
 
-#### 1. 多行公式对齐（`align` / `align*`）
+---
+
+#### 1. 多行公式对齐 ( `align` / `align*` )
 ```latex
 $$
 \begin{align*}
@@ -347,10 +349,12 @@ $$
 \end{align*}
 $$
 
-#### 2. 分段函数 / 联立方程（`cases`）
+---
+
+#### 2. 分段函数 / 联立方程 ( `cases` )
 ```latex
 $$
-f(x) = 
+f(x) =
 \begin{cases}
     x + 1, & x > 0 \\
     0, & x = 0 \\
@@ -360,7 +364,7 @@ $$
 ```
 **渲染效果**：
 $$
-f(x) = 
+f(x) =
 \begin{cases}
     x + 1, & x > 0 \\
     0, & x = 0 \\
@@ -368,7 +372,9 @@ f(x) =
 \end{cases}
 $$
 
-#### 3. 矩阵（`matrix` / `pmatrix` / `bmatrix` / `vmatrix`）
+---
+
+#### 3. 矩阵 ( `matrix` / `pmatrix` / `bmatrix` / `vmatrix` )
 ```latex
 $$
 A = \begin{bmatrix}
@@ -387,7 +393,9 @@ A = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-#### 4. 多列对齐（`array`）
+---
+
+#### 4. 多列对齐 ( `array` )
 ```latex
 $$
 \begin{array}{c|c|c}
@@ -408,7 +416,9 @@ $$
 \end{array}
 $$
 
-#### 5. 大括号包裹多行（`rcases`）
+---
+
+#### 5. 大括号包裹多行 ( `rcases` )
 ```latex
 $$
 \begin{rcases}
@@ -438,6 +448,3 @@ $$
 - 带 `*` 的符号通常需要 `amssymb`。
 - 文本里写 `\` 用 `\textbackslash`，数学里用 `\backslash`。
 - `\\` 多数时候是换行，不是显示反斜杠。
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTQ2NzU5XX0=
--->

@@ -17,26 +17,18 @@
 | 编号 | 简介 |
 | :--- | :--- |
 | 0 | 写笔记时用到的排版语法速查 |
-| 1 | 基本语法 |
-| └ 1B | C++ 语法基础与常用容器 |
-| 2 | 基本算法 |
-| └ 2B | 基础算法思想与模板 |
-| 3 | 数据结构 |
-| └ 3B | 常用数据结构实现与应用 |
-| └ 3P | 基础数据结构的扩展与高级应用 |
-| 4 | 搜索 |
-| └ 4B | DFS 与 BFS |
-| └ 4P | 搜索算法的扩展应用 |
-| 5 | 图论 |
-| └ 5B | 图的基础与最短路算法 |
-| └ 5P | 最短路算法的深入应用与扩展 |
-| 6 | 动态规划 |
-| └ 6B | DP 专题 |
-| └ 6P | DP 模型的深入应用与扩展 |
-| 7 | 贪心 |
-| └ 7B | 贪心算法思想 |
-| 8 | 数学 |
-| └ 8B | 数论、线性代数与离散数学 |
+| 1B | C++ 语法基础与常用容器 |
+| 2B | 基础算法思想与模板 |
+| 3B | 常用数据结构实现与应用 |
+| 3P | 基础数据结构的扩展与高级应用 |
+| 4B | DFS 与 BFS |
+| 4P | 搜索算法的扩展应用 |
+| 5B | 图的基础与最短路算法 |
+| 5P | 最短路算法的深入应用与扩展 |
+| 6B | DP 专题 |
+| 6P | DP 模型的深入应用与扩展 |
+| 7B | 贪心算法思想 |
+| 8B | 数论、线性代数与离散数学 |
 
 ---
 
@@ -71,19 +63,36 @@ flowchart LR
 
 #### 跳转链接
 
-- [0 格式参考](https://cuberxl.github.io/Coders-Note/0-格式/)
-- [1B 基本语法](https://cuberxl.github.io/Coders-Note/1B-基本语法/)
-- [2B 基本算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/)
-- [3B 数据结构](https://cuberxl.github.io/Coders-Note/3B-数据结构/)
-- [3P 数据结构进阶](https://cuberxl.github.io/Coders-Note/3P-数据结构进阶/)
-- [4B 搜索](https://cuberxl.github.io/Coders-Note/4B-搜索/)
-- [4P 搜索进阶](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/)
-- [5B 图论](https://cuberxl.github.io/Coders-Note/5B-图论/)
-- [5P 图论进阶](https://cuberxl.github.io/Coders-Note/5P-图论进阶/)
-- [6B 动态规划](https://cuberxl.github.io/Coders-Note/6B-动态规划/)
-- [6P 动态规划进阶](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/)
-- [7B 贪心](https://cuberxl.github.io/Coders-Note/7B-贪心/)
-- [8B 数学](https://cuberxl.github.io/Coders-Note/8B-数学/)
+- **0 格式参考**
+  - [0 格式参考](https://cuberxl.github.io/Coders-Note/0-格式/)
+
+- **1 基本语法**
+  - [1B 基本语法](https://cuberxl.github.io/Coders-Note/1B-基本语法/)
+
+- **2 基本算法**
+  - [2B 基本算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/)
+
+- **3 数据结构**
+  - [3B 数据结构](https://cuberxl.github.io/Coders-Note/3B-数据结构/)
+  - [3P 数据结构进阶](https://cuberxl.github.io/Coders-Note/3P-数据结构进阶/)
+
+- **4 搜索**
+  - [4B 搜索](https://cuberxl.github.io/Coders-Note/4B-搜索/)
+  - [4P 搜索进阶](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/)
+
+- **5 图论**
+  - [5B 图论](https://cuberxl.github.io/Coders-Note/5B-图论/)
+  - [5P 图论进阶](https://cuberxl.github.io/Coders-Note/5P-图论进阶/)
+
+- **6 动态规划**
+  - [6B 动态规划](https://cuberxl.github.io/Coders-Note/6B-动态规划/)
+  - [6P 动态规划进阶](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/)
+
+- **7 贪心**
+  - [7B 贪心](https://cuberxl.github.io/Coders-Note/7B-贪心/)
+
+- **8 数学**
+  - [8B 数学](https://cuberxl.github.io/Coders-Note/8B-数学/)
 
 ---
 

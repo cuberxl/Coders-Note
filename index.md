@@ -20,13 +20,13 @@
 | 1 | C++ 语法基础与常用容器 |
 | 2 | 基础算法思想与模板 |
 | 3 | 常用数据结构实现与应用 |
-| 3\* | 基础数据结构的扩展与高级应用 |
+| 3P | 基础数据结构的扩展与高级应用 |
 | 4 | DFS 与 BFS |
-| 4\* | 搜索算法的扩展应用 |
+| 4P | 搜索算法的扩展应用 |
 | 5 | 图的基础与最短路算法 |
-| 5\* | 最短路算法的深入应用与扩展 |
+| 5P | 最短路算法的深入应用与扩展 |
 | 6 | DP 专题 |
-| 6\* | DP 模型的深入应用与扩展 |
+| 6P | DP 模型的深入应用与扩展 |
 | 7 | 贪心算法思想 |
 | 8 | 数论、线性代数与离散数学 |
 
@@ -57,18 +57,18 @@ flowchart LR
 #### 跳转链接
 
 - [0 格式参考](https://cuberxl.github.io/Coders-Note/0-格式/)
-- [1 基本语法](https://cuberxl.github.io/Coders-Note/1-基本语法/)
-- [2 基本算法](https://cuberxl.github.io/Coders-Note/2-基本算法/)
-- [3 数据结构](https://cuberxl.github.io/Coders-Note/3-数据结构/)
-- [3\* 数据结构进阶](https://cuberxl.github.io/Coders-Note/3*-数据结构进阶/)
-- [4 搜索](https://cuberxl.github.io/Coders-Note/4-搜索/)
-- [4\* 搜索进阶](https://cuberxl.github.io/Coders-Note/4*-搜索进阶/)
-- [5 图论](https://cuberxl.github.io/Coders-Note/5-图论/)
-- [5\* 图论进阶](https://cuberxl.github.io/Coders-Note/5*-图论进阶/)
-- [6 动态规划](https://cuberxl.github.io/Coders-Note/6-动态规划/)
-- [6\* 动态规划进阶](https://cuberxl.github.io/Coders-Note/6*-动态规划进阶/)
-- [7 贪心](https://cuberxl.github.io/Coders-Note/7-贪心/)
-- [8 数学](https://cuberxl.github.io/Coders-Note/8-数学/)
+- [1 基本语法](https://cuberxl.github.io/Coders-Note/1B-基本语法/)
+- [2 基本算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/)
+- [3 数据结构](https://cuberxl.github.io/Coders-Note/3B-数据结构/)
+- [3P 数据结构进阶](https://cuberxl.github.io/Coders-Note/3P-数据结构进阶/)
+- [4 搜索](https://cuberxl.github.io/Coders-Note/4B-搜索/)
+- [4P 搜索进阶](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/)
+- [5 图论](https://cuberxl.github.io/Coders-Note/5B-图论/)
+- [5P 图论进阶](https://cuberxl.github.io/Coders-Note/5P-图论进阶/)
+- [6 动态规划](https://cuberxl.github.io/Coders-Note/6B-动态规划/)
+- [6P 动态规划进阶](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/)
+- [7 贪心](https://cuberxl.github.io/Coders-Note/7B-贪心/)
+- [8 数学](https://cuberxl.github.io/Coders-Note/8B-数学/)
 
 ---
 

@@ -319,53 +319,111 @@
 
 ---
 
-#### 十五、可复制模板
+#### 十七、环境（Environment）
 
+**基本语法**：
+```latex
+\begin{环境名称}
+    内容
+\end{环境名称}
+```
+
+#### 1. 多行公式对齐（`align` / `align*`）
 ```latex
 $$
-a \le b, \quad a \ge b, \quad a \ll b, \quad a \gg b
-$$
-
-$$
-a \equiv b \pmod{m}, \quad a \bmod m = r
-$$
-
-$$
-a \preceq b, \quad a \prec b, \quad a \sqsubseteq b
-$$
-
-$$
-x \in A, \quad A \subseteq B, \quad A \cup B, \quad A \cap B
-$$
-
-$$
-P \Rightarrow Q, \quad P \Leftrightarrow Q, \quad x \mapsto f(x)
-$$
-
-$$
-\forall x \in A,\ \exists y \in B,\ x < y
-$$
-
-$$
-\sum_{i=1}^{n} i, \quad \prod_{i=1}^{n} i, \quad \int_a^b f(x)\,dx
-$$
-
-$$
-\lim_{x \to 0} f(x), \quad \frac{\partial f}{\partial x}, \quad \nabla f
-$$
-
-$$
-a \mid b, \quad a \nmid b, \quad m \parallel n, \quad m \perp n
-$$
-
-$$
-\sup A, \quad \inf A, \quad \max A, \quad \min A
-$$
-
-$$
-a \vee b, \quad a \wedge b, \quad \top, \quad \bot
+\begin{align*}
+    f[i][j] &= \max(f[i-1][j], f[i][j-1]) + a[i][j] \\
+    &= \max(10, 20) + 5 \\
+    &= 25
+\end{align*}
 $$
 ```
+**渲染效果**：
+$$
+\begin{align*}
+    f[i][j] &= \max(f[i-1][j], f[i][j-1]) + a[i][j] \\
+    &= \max(10, 20) + 5 \\
+    &= 25
+\end{align*}
+$$
+
+#### 2. 分段函数 / 联立方程（`cases`）
+```latex
+$$
+f(x) = 
+\begin{cases}
+    x + 1, & x > 0 \\
+    0, & x = 0 \\
+    x - 1, & x < 0
+\end{cases}
+$$
+```
+**渲染效果**：
+$$
+f(x) = 
+\begin{cases}
+    x + 1, & x > 0 \\
+    0, & x = 0 \\
+    x - 1, & x < 0
+\end{cases}
+$$
+
+#### 3. 矩阵（`matrix` / `pmatrix` / `bmatrix` / `vmatrix`）
+```latex
+$$
+A = \begin{bmatrix}
+    1 & 2 & 3 \\
+    4 & 5 & 6 \\
+    7 & 8 & 9
+\end{bmatrix}
+$$
+```
+**渲染效果**：
+$$
+A = \begin{bmatrix}
+    1 & 2 & 3 \\
+    4 & 5 & 6 \\
+    7 & 8 & 9
+\end{bmatrix}
+$$
+
+#### 4. 多列对齐（`array`）
+```latex
+$$
+\begin{array}{c|c|c}
+    \text{节点} & \text{距离} & \text{状态} \\
+    \hline
+    1 & 0 & \text{已确定} \\
+    2 & \infty & \text{未确定}
+\end{array}
+$$
+```
+**渲染效果**：
+$$
+\begin{array}{c|c|c}
+    \text{节点} & \text{距离} & \text{状态} \\
+    \hline
+    1 & 0 & \text{已确定} \\
+    2 & \infty & \text{未确定}
+\end{array}
+$$
+
+#### 5. 大括号包裹多行（`rcases`）
+```latex
+$$
+\begin{rcases}
+    x + y = 10 \\
+    x - y = 2
+\end{rcases}
+$$
+```
+**渲染效果**：
+$$
+\begin{rcases}
+    x + y = 10 \\
+    x - y = 2
+\end{rcases}
+$$
 
 ---
 
@@ -380,3 +438,6 @@ $$
 - 带 `*` 的符号通常需要 `amssymb`。
 - 文本里写 `\` 用 `\textbackslash`，数学里用 `\backslash`。
 - `\\` 多数时候是换行，不是显示反斜杠。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM2NTQ2NzU5XX0=
+-->

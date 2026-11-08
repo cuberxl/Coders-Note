@@ -26,12 +26,12 @@
 ```mermaid
 flowchart LR
     R(["STL 容器"])
-    R --> N1(["动态数组 vector<br/>动态数组 vector"])
-    R --> N2(["队列、堆、栈<br/>队列、堆、栈"])
-    R --> N3(["双端队列 deque<br/>双端队列 deque"])
-    R --> N4(["集合 set<br/>集合 set"])
-    R --> N5(["映射 map<br/>映射 map"])
-    R --> N6(["元组 tuple<br/>元组 tuple"])
+    R --> N1(["动态数组 vector"])
+    R --> N2(["队列、堆、栈"])
+    R --> N3(["双端队列 deque"])
+    R --> N4(["集合 set"])
+    R --> N5(["映射 map"])
+    R --> N6(["元组 tuple"])
 ```
 
 ---

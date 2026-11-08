@@ -33,5 +33,5 @@ graph LR
 
 #### 跳转链接
 
-- [5.4.1 Prim算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.4-最小生成树/5.4.1-Prim算法)
-- [5.4.2 Kruskal算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.4-最小生成树/5.4.2-Kruskal算法)
+- [5B.4.1 Prim算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.4-最小生成树/5.4.1-Prim算法)
+- [5B.4.2 Kruskal算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.4-最小生成树/5.4.2-Kruskal算法)

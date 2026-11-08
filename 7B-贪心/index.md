@@ -12,12 +12,12 @@
 
 | 编号 | 简介 |
 | :--- | :--- |
-| 7.1 | 区间选点、最大不相交区间数、区间分组、区间覆盖 |
-| 7.2 | 最优二叉树、贪心合并、满二叉树性质 |
-| 7.3 | 排队打水问题、反序和最小 |
-| 7.4 | 货仓选址、绝对值不等式、二维曼哈顿距离 |
-| 7.5 | 推公式、耍杂技的牛、邻项交换法 |
-| 7.6 | 相邻传递问题 |
+| 7B.1 | 区间选点、最大不相交区间数、区间分组、区间覆盖 |
+| 7B.2 | 最优二叉树、贪心合并、满二叉树性质 |
+| 7B.3 | 排队打水问题、反序和最小 |
+| 7B.4 | 货仓选址、绝对值不等式、二维曼哈顿距离 |
+| 7B.5 | 推公式、耍杂技的牛、邻项交换法 |
+| 7B.6 | 相邻传递问题 |
 
 ---
 
@@ -38,9 +38,9 @@ flowchart LR
 
 #### 跳转链接
 
-- [7.1 区间问题](https://cuberxl.github.io/Coders-Note/7B-贪心/7.1-区间问题)
-- [7.2 哈夫曼树](https://cuberxl.github.io/Coders-Note/7B-贪心/7.2-哈夫曼树)
-- [7.3 排序不等式](https://cuberxl.github.io/Coders-Note/7B-贪心/7.3-排序不等式)
-- [7.4 绝对值不等式](https://cuberxl.github.io/Coders-Note/7B-贪心/7.4-绝对值不等式)
-- [7.5 推公式](https://cuberxl.github.io/Coders-Note/7B-贪心/7.5-推公式)
-- [7.6 相邻传递问题](https://cuberxl.github.io/Coders-Note/7B-贪心/7.6-相邻传递问题)
+- [7B.1 区间问题](https://cuberxl.github.io/Coders-Note/7B-贪心/7.1-区间问题)
+- [7B.2 哈夫曼树](https://cuberxl.github.io/Coders-Note/7B-贪心/7.2-哈夫曼树)
+- [7B.3 排序不等式](https://cuberxl.github.io/Coders-Note/7B-贪心/7.3-排序不等式)
+- [7B.4 绝对值不等式](https://cuberxl.github.io/Coders-Note/7B-贪心/7.4-绝对值不等式)
+- [7B.5 推公式](https://cuberxl.github.io/Coders-Note/7B-贪心/7.5-推公式)
+- [7B.6 相邻传递问题](https://cuberxl.github.io/Coders-Note/7B-贪心/7.6-相邻传递问题)

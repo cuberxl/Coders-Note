@@ -12,11 +12,11 @@
 
 | 编号 | 简介 |
 | :--- | :--- |
-| 5.1 | 树与图的存储与遍历 |
-| 5.2 | 拓扑排序 |
-| 5.3 | 最短路算法 |
-| 5.4 | 最小生成树 |
-| 5.5 | 二分图 |
+| 5B.1 | 树与图的存储与遍历 |
+| 5B.2 | 拓扑排序 |
+| 5B.3 | 最短路算法 |
+| 5B.4 | 最小生成树 |
+| 5B.5 | 二分图 |
 
 ---
 
@@ -42,8 +42,8 @@ flowchart LR
 
 #### 跳转链接
 
-- [5.1 树与图的存储与遍历](https://cuberxl.github.io/Coders-Note/5B-图论/5.1-树与图的存储与遍历)
-- [5.2 拓扑排序](https://cuberxl.github.io/Coders-Note/5B-图论/5.2-拓扑排序)
-- [5.3 最短路算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.3-最短路算法/)
-- [5.4 最小生成树](https://cuberxl.github.io/Coders-Note/5B-图论/5.4-最小生成树)
-- [5.5 二分图](https://cuberxl.github.io/Coders-Note/5B-图论/5.5-二分图)
+- [5B.1 树与图的存储与遍历](https://cuberxl.github.io/Coders-Note/5B-图论/5.1-树与图的存储与遍历)
+- [5B.2 拓扑排序](https://cuberxl.github.io/Coders-Note/5B-图论/5.2-拓扑排序)
+- [5B.3 最短路算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.3-最短路算法/)
+- [5B.4 最小生成树](https://cuberxl.github.io/Coders-Note/5B-图论/5.4-最小生成树)
+- [5B.5 二分图](https://cuberxl.github.io/Coders-Note/5B-图论/5.5-二分图)

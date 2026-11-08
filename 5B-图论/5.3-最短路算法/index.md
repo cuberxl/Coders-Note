@@ -50,7 +50,7 @@ graph LR
 
 #### 跳转链接
 
-- [5.3.1 Dijkstra算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.3-最短路算法/5.3.1-Dijkstra算法)
-- [5.3.2 Bellman-Ford算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.3-最短路算法/5.3.2-Bellman-Ford算法)
-- [5.3.3 SPFA算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.3-最短路算法/5.3.3-SPFA算法)
-- [5.3.4 Floyd算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.3-最短路算法/5.3.4-Floyd算法)
+- [5B.3.1 Dijkstra算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.3-最短路算法/5.3.1-Dijkstra算法)
+- [5B.3.2 Bellman-Ford算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.3-最短路算法/5.3.2-Bellman-Ford算法)
+- [5B.3.3 SPFA算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.3-最短路算法/5.3.3-SPFA算法)
+- [5B.3.4 Floyd算法](https://cuberxl.github.io/Coders-Note/5B-图论/5.3-最短路算法/5.3.4-Floyd算法)

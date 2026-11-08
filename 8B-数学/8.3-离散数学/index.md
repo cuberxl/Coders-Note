@@ -12,8 +12,8 @@
 
 | 编号 | 简介 |
 | :--- | :--- |
-| 8.3.1 | 加法原理、乘法原理、排列组合、卡特兰数 |
-| 8.3.2 | 偏序关系、偏序集、Dilworth 定理 |
+| 8B.3.1 | 加法原理、乘法原理、排列组合、卡特兰数 |
+| 8B.3.2 | 偏序关系、偏序集、Dilworth 定理 |
 
 ---
 
@@ -30,5 +30,5 @@ flowchart LR
 
 #### 跳转链接
 
-- [8.3.1 组合计数](https://cuberxl.github.io/Coders-Note/8B-数学/8.3-离散数学/8.3.1-组合计数)
-- [8.3.2 偏序关系与偏序集](https://cuberxl.github.io/Coders-Note/8B-数学/8.3-离散数学/8.3.2-偏序关系与偏序集)
+- [8B.3.1 组合计数](https://cuberxl.github.io/Coders-Note/8B-数学/8.3-离散数学/8.3.1-组合计数)
+- [8B.3.2 偏序关系与偏序集](https://cuberxl.github.io/Coders-Note/8B-数学/8.3-离散数学/8.3.2-偏序关系与偏序集)

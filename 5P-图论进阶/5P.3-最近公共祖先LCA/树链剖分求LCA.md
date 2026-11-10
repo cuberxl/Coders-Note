@@ -43,10 +43,11 @@
 - 第二遍 DFS：处理链头。
 	- DFS 参数：当前遍历节点 $u$，链头 $tp$。
 	- 使 $top[u] = tp$。
-	- 递归处理其重儿子，令其链头为 ￥
+	- 递归处理其重儿子，令其链头为 $tp$。（$u$ 和重儿子必然在一条重链上）
+	- 递归处理其轻儿子（跳过重儿子和其前驱节点），令其链头为自身。
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTcyNjM5NV19
+eyJoaXN0b3J5IjpbLTczODIxNjAxM119
 -->

@@ -5,11 +5,11 @@
 
 [**返回首页**](https://cuberxl.github.io/Coders-Note/)
 
+---
 #### 前置知识
-
+---
 **概念：** 树上两点 $u, v$ 的所有公共祖先中，深度最大的那个称为最近公共祖先。
 
-**相关算法：** 求解树上两点最近公共祖先的常见方法。
 
 | 编号 | 简介 |
 | :--- | :--- |
@@ -34,5 +34,5 @@ flowchart LR
 - [5P.3.3 Tarjan 求 LCA](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.3-最近公共祖先（LCA）/5P.3.3-Tarjan求LCA)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2MDY5MjU1XX0=
+eyJoaXN0b3J5IjpbMjQ1OTU5OTA2XX0=
 -->

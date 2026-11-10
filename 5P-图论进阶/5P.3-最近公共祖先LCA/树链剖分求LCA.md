@@ -30,12 +30,14 @@
 **流程**：
 通过两遍 DFS 实现。
 
-- 第一遍 DFS：预处理子树大小 $sz[u]$，父节点 $fa[u]$，重儿子 $son[u]$
+- 第一遍 DFS：预处理子树大小 $sz[u]$，父节点 $fa[u]$，重儿子 $son[u]$，深度 $dep[u]$
 	- DFS 参数：当前遍历节点 $u$，前驱节点 $from$。
-	- 初始值：$$
+	- 初始值：
+		- $sz[u] = 1$ （当前节点自身）
+		- $deo$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyODc0NzMwXX0=
+eyJoaXN0b3J5IjpbMjQyNzg5NTRdfQ==
 -->

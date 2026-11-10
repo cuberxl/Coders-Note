@@ -30,10 +30,10 @@
 **流程**：
 通过两遍 DFS 实现。
 
-- 第一遍 DFS：预处理
+- 第一遍 DFS：预处理子树大小 $sz[u]$，父节点 $fa[u]$，重儿子 $son[u]$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg0NTMyNTZdfQ==
+eyJoaXN0b3J5IjpbMTMzMzkwOTAzM119
 -->

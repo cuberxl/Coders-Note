@@ -8,11 +8,11 @@
 
 笔者通过模块化的分类进行结构化存储，便于知识检索与体系化复盘。
 
-本章按「编号 + 层级」组织：编号相同的章节归为一组，`B` 为基础、`P` 为提高。
+本章按「编号 + 层级」组织：编号相同的章节归为一组，`B` 为基础、`P` 为提高您可以通过以下总目录索引，快速跳转至对应的章节页面进行查阅。
 
 ---
 
-#### 笔记目录
+#### 📖 笔记目录
 
 | 编号 | 简介 |
 | :--- | :--- |
@@ -67,32 +67,32 @@ flowchart LR
   - [0 格式参考](https://cuberxl.github.io/Coders-Note/0-格式/)
 
 - **1 基本语法**
-  - [1B 基本语法](https://cuberxl.github.io/Coders-Note/1B-基本语法/)
+  - [1B- [1. 基本语法](https://cuberxl.github.io/Coders-Note/1B-基本语法/)
 
 - **2 基本算法**
-  - [2B 基本算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/)
+  - [2B. 基本算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/)
 
 - **3 数据结构**
-  - [3B 数据结构](https://cuberxl.github.io/Coders-Note/3B-数据结构/)
-  - [3P 数据结构进阶](https://cuberxl.github.io/Coders-Note/3P-数据结构进阶/)
+  - [3B. 数据结构](https://cuberxl.github.io/Coders-Note/3B-数据结构/)
+  - [3P\*. 数据结构进阶](https://cuberxl.github.io/Coders-Note/3P*-数据结构进阶/)
 
 - **4 搜索**
   - [4B 搜索](https://cuberxl.github.io/Coders-Note/4B-搜索/)
-  - [4P 搜索进阶](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/)
+  - [4P- [4. 搜索进阶](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/)
 
 - **5 图论**
-  - [5B 图论](https://cuberxl.github.io/Coders-Note/5B-图论/)
-  - [5P 图论进阶](https://cuberxl.github.io/Coders-Note/5P-图论进阶/)
+  - [5B. 图论](https://cuberxl.github.io/Coders-Note/5B-图论/)
+  - [5P\*. 图论进阶](https://cuberxl.github.io/Coders-Note/5P*-图论进阶/)
 
 - **6 动态规划**
-  - [6B 动态规划](https://cuberxl.github.io/Coders-Note/6B-动态规划/)
-  - [6P 动态规划进阶](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/)
+  - [6B. 动态规划](https://cuberxl.github.io/Coders-Note/6B-动态规划/)
+  - [6P\*. 动态规划进阶](https://cuberxl.github.io/Coders-Note/6P*-动态规划进阶/)
 
 - **7 贪心**
-  - [7B 贪心](https://cuberxl.github.io/Coders-Note/7B-贪心/)
+  - [7B. 贪心](https://cuberxl.github.io/Coders-Note/7B-贪心/)
 
 - **8 数学**
-  - [8B 数学](https://cuberxl.github.io/Coders-Note/8B-数学/)
+  - [8B. 数学](https://cuberxl.github.io/Coders-Note/8B-数学/)
 
 ---
 
@@ -101,3 +101,6 @@ flowchart LR
 > 笔者知识储备有限，疏漏与不足之处敬请指正。
 >
 > *参考资料：Acwing 算法基础课 / 《算法竞赛进阶指南》 / OI Wiki*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODI5NDY4MDg1XX0=
+-->

@@ -34,10 +34,14 @@
 	- DFS 参数：当前遍历节点 $u$，前驱节点 $from$。
 	- 初始值：
 		- $sz[u] = 1$ （当前节点自身）
-		- $dep[u] = dep[from$
+		- $dep[u] = dep[from] + 1$
+		- $fa[u] = from$
+	- 遍历其每个节点，维护最大子树 $mxsz$。
+		- 跳过其前驱节点，递归处理子节点。
+		- le
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTQ3Mjk5M119
+eyJoaXN0b3J5IjpbLTcyODMxMTg1M119
 -->

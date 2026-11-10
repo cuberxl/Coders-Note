@@ -38,10 +38,13 @@
 		- $fa[u] = from$
 	- 遍历其每个节点，维护最大子树 $mxsz$。
 		- 跳过其前驱节点，递归处理子节点。
-		- le
+		- 更新 $mxsz$，若成功则更新 $son[u]$。
+		- 累加 $u$ 的子树。
+- 第二遍 DFS：处理链头。
+	- DFS cai
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODMxMTg1M119
+eyJoaXN0b3J5IjpbLTE3ODAxMTA4MDBdfQ==
 -->

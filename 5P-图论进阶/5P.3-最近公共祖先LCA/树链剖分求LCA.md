@@ -34,10 +34,10 @@
 	- DFS 参数：当前遍历节点 $u$，前驱节点 $from$。
 	- 初始值：
 		- $sz[u] = 1$ （当前节点自身）
-		- $deo$
+		- $dep[u] = dep[from$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNzg5NTRdfQ==
+eyJoaXN0b3J5IjpbMTczOTQ3Mjk5M119
 -->

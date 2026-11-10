@@ -41,10 +41,12 @@
 		- 更新 $mxsz$，若成功则更新 $son[u]$。
 		- 累加 $u$ 的子树。
 - 第二遍 DFS：处理链头。
-	- DFS cai
+	- DFS 参数：当前遍历节点 $u$，链头 $tp$。
+	- 使 $top[u] = tp$。
+	- 递归处理其重儿子，令其链头为 ￥
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAxMTA4MDBdfQ==
+eyJoaXN0b3J5IjpbMjA3MTcyNjM5NV19
 -->

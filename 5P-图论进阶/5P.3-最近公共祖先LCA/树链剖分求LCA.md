@@ -46,8 +46,9 @@
 	- 递归处理其重儿子，令其链头为 $tp$。（$u$ 和重儿子必然在一条重链上）
 	- 递归处理其轻儿子（跳过重儿子和其前驱节点），令其链头为自身。
 - 查询处理：
-  - 将深度较大的点不断跳到链头的父节点，直到两个点处于同一条链，链头即为答案。 
+  - 将处于链的链头深度较大的点不断跳到链头的父节点，直到两个点处于同一条链，链头即为答案。 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjAyNzE5MywtNzM4MjE2MDEzXX0=
+eyJoaXN0b3J5IjpbMjgyMzE0NzUxLDE0MzYwMjcxOTMsLTczOD
+IxNjAxM119
 -->

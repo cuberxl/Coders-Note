@@ -67,7 +67,7 @@ flowchart LR
   - [0 格式参考](https://cuberxl.github.io/Coders-Note/0-格式/)
 
 - **1 基本语法**
-  - [1B. 基本语法](https://cuberxl.github.io/Coders-Note/1B-基本语法/)
+  - [1B- [1. 基本语法](https://cuberxl.github.io/Coders-Note/1B-基本语法/)
 
 - **2 基本算法**
   - [2B. 基本算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/)
@@ -78,7 +78,7 @@ flowchart LR
 
 - **4 搜索**
   - [4B 搜索](https://cuberxl.github.io/Coders-Note/4B-搜索/)
-  - [4P. 搜索进阶](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/)
+  - [4P- [4. 搜索进阶](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/)
 
 - **5 图论**
   - [5B. 图论](https://cuberxl.github.io/Coders-Note/5B-图论/)
@@ -102,5 +102,6 @@ flowchart LR
 >
 > *参考资料：Acwing 算法基础课 / 《算法竞赛进阶指南》 / OI Wiki*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTQxNzM2Miw4Mjk0NjgwODVdfQ==
+eyJoaXN0b3J5IjpbODI5NDY4MDg1LDE5ODU0MTczNjIsODI5ND
+Y4MDg1XX0=
 -->

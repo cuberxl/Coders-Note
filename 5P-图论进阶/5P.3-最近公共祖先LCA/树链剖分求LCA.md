@@ -52,7 +52,8 @@
   - 证明：
     - 设 $L = \text{LCA}(u, v)$，且 $dep[top[u]] > dep[top[v]]$
     - 则 $L$ 不在 $top[u]$ 的子树中
-      - 否则 $y$ 也在其子树中，就有 $$
+      - 否则 $y$ 也在其子树中，就有 $dep[top[y]] >= dep[top[x]]$，矛盾。
+    - 故 $L$ 定为$top[u]$ 的
 
 **代码模板**
 ```cpp
@@ -137,6 +138,6 @@ int main() {
 
 **复杂度分析**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ0MzUwODMsMjgyMzE0NzUxLDE0Mz
+eyJoaXN0b3J5IjpbLTExNDEwODc2NzYsMjgyMzE0NzUxLDE0Mz
 YwMjcxOTMsLTczODIxNjAxM119
 -->

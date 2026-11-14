@@ -21,7 +21,7 @@
 - 重边与轻边：连接父节点与重儿子的边称为重边；连接父节点与轻儿子的边称为轻边。
 - 重链：由重边连接而成的链。每个节点至多属于一条重链。
 - 链顶：重链中深度最小的节点。
-- 树链剖分：
+- 树链剖分：将树划分成若干条不相交的重链，使得每个节点恰属于一条重链，且树上任意路径可拆分为 $O(\log ⁡n)$段重链。
 
 ---
 
@@ -48,7 +48,12 @@
 - 查询处理：
   - 将处于链的链头深度较大的点不断跳到链头的父节点，直到两个点处于同一条链，链头即为答案。 
 
+**代码模板**
+```cpp
+```
+
+**复杂度分析**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyMzE0NzUxLDE0MzYwMjcxOTMsLTczOD
-IxNjAxM119
+eyJoaXN0b3J5IjpbLTE0MDI3NTM4NiwyODIzMTQ3NTEsMTQzNj
+AyNzE5MywtNzM4MjE2MDEzXX0=
 -->

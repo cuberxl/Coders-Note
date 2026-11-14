@@ -50,7 +50,9 @@
 - 查询处理：
   - 将处于链的链头深度较大的点不断跳到链头的父节点，直到两个点处于同一条链，链头即为答案。 
   - 证明：
-    - 设 $L = \text{LCA}(u, v)$，且 $dep[top[u]]大于$
+    - 设 $L = \text{LCA}(u, v)$，且 $dep[top[u]] > dep[top[v]]$
+    - 则 $L$ 不在 $top[u]$ 的子树中
+      - 否则 $y$ 也在其子树中，就有 $$
 
 **代码模板**
 ```cpp
@@ -135,6 +137,6 @@ int main() {
 
 **复杂度分析**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NTI0MTk3LDI4MjMxNDc1MSwxNDM2MD
-I3MTkzLC03MzgyMTYwMTNdfQ==
+eyJoaXN0b3J5IjpbLTE4MjQ0MzUwODMsMjgyMzE0NzUxLDE0Mz
+YwMjcxOTMsLTczODIxNjAxM119
 -->

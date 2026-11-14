@@ -137,8 +137,9 @@ int main() {
 ```
 
 **复杂度分析**
-- 由重儿子的性质，可得
+- 由重儿子的性质，可得轻儿子的子树大小小于其父亲子树的一半。
+- 故从任意节点跳到根最多经过 $\log n$ 次轻边，而每跳一次
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTk4MTA4MywyODIzMTQ3NTEsMTQzNj
-AyNzE5MywtNzM4MjE2MDEzXX0=
+eyJoaXN0b3J5IjpbLTE4ODQ5NzY4NDUsMjgyMzE0NzUxLDE0Mz
+YwMjcxOTMsLTczODIxNjAxM119
 -->

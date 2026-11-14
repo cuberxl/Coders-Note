@@ -52,8 +52,8 @@
   - 证明：
     - 设 $L = \text{LCA}(u, v)$，且 $dep[top[u]] > dep[top[v]]$
     - 则 $L$ 不在 $top[u]$ 的子树中
-      - 否则 $y$ 也在其子树中，就有 $dep[top[y]] >= dep[top[x]]$，矛盾。
-    - 故 $L$ 定为$top[u]$ 的
+      - 否则 $v$ 也在其子树中，就有 $dep[top[v]] >= dep[top[u]]$，矛盾。
+	- 故 $L$ 定为 $top[u]$ 的祖先，故将 $u$ 跳到 $fa[top[u]]$ 不会跳过 $L$，证毕。
 
 **代码模板**
 ```cpp
@@ -137,7 +137,8 @@ int main() {
 ```
 
 **复杂度分析**
+- 由重儿子的性质，可得
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEwODc2NzYsMjgyMzE0NzUxLDE0Mz
-YwMjcxOTMsLTczODIxNjAxM119
+eyJoaXN0b3J5IjpbMTgyOTk4MTA4MywyODIzMTQ3NTEsMTQzNj
+AyNzE5MywtNzM4MjE2MDEzXX0=
 -->

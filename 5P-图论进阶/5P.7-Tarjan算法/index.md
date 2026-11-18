@@ -12,9 +12,10 @@
 
 | 编号 | 简介 |
 | :--- | :--- |
-| 5P.5.1 | 强连通分量 ( SCC ) |
-| 5P.5.2 | 边双连通分量 ( e-DCC ) |
-| 5P.5.3 | 点双连通分量 ( v-DCC ) |
+| 5P.7.1 | 强连通分量 ( SCC ) |
+| 5P.7.2 | 边双连通分量 ( e-DCC ) |
+| 5P.7.3 | 点双连通分量 ( v-DCC ) |
+| 5P.7.4 | Tarjan 算法的应用 |
 
 ---
 
@@ -23,15 +24,17 @@
 ```mermaid
 flowchart LR
     R(["Tarjan算法"])
-    R --> N1(["5P.5.1 强连通分量 ( SCC )"])
-    R --> N2(["5P.5.2 边双连通分量 ( e-DCC )"])
-    R --> N3(["5P.5.3 点双连通分量 ( v-DCC )"])
+    R --> N1(["强连通分量 SCC"])
+    R --> N2(["边双连通分量 e-DCC"])
+    R --> N3(["点双连通分量 v-DCC"])
+    R --> N4(["Tarjan 算法的应用"])
 ```
 
 ---
 
 #### 跳转链接
 
-- [5P.5.1 强连通分量 ( SCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.5-Tarjan算法/5P.5.1-强连通分量（SCC）))
-- [5P.5.2 边双连通分量 ( e-DCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.5-Tarjan算法/5P.5.2-边双连通分量（e-DCC）))
-- [5P.5.3 点双连通分量 ( v-DCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.5-Tarjan算法/5P.5.3-点双连通分量（v-DCC）))
+- [5P.7.1 强连通分量 ( SCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.7-Tarjan算法/5P.7.1-强连通分量（SCC）)
+- [5P.7.2 边双连通分量 ( e-DCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.7-Tarjan算法/5P.7.2-边双连通分量（e-DCC）)
+- [5P.7.3 点双连通分量 ( v-DCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.7-Tarjan算法/5P.7.3-点双连通分量（v-DCC）)
+- [5P.7.4 Tarjan 算法的应用](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.7-Tarjan算法/5P.7.4-Tarjan算法的应用)

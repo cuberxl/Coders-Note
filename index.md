@@ -99,13 +99,14 @@ flowchart LR
 ---
 #### 其他信息
 
-**作者：cuberxl**
+- [数据统计页](https://cuberxl.github.io/Coders-Note/stats)
 
-[数据统计页](https://cuberxl.github.io/Coders-Note/stats)
-
+---
+> 笔记作者：cuberxl
+> 
 > 笔者知识储备有限，疏漏与不足之处敬请指正。
 >
 > *参考资料：Acwing 算法基础课 / 《算法竞赛进阶指南》 / OI Wiki*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzEwMzU3Nl19
+eyJoaXN0b3J5IjpbNDA5MjAyODY4XX0=
 -->

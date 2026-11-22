@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 0,
+  "updatedAt": 1795360224275,
   "vault": {
     "attachmentFilenamePattern": "{date}-{originalName}",
     "attachmentsFolder": "Files",

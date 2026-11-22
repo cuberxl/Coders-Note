@@ -31,6 +31,3 @@ flowchart LR
 - [5P.3.2 树链剖分求 LCA](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.3-最近公共祖先（LCA）/5P.3.2-树链剖分求LCA)
 - [5P.3.3 Tarjan 求 LCA](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.3-最近公共祖先（LCA）/5P.3.3-Tarjan求LCA)
 - [5P.3.4 树上差分](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.3-最近公共祖先（LCA）/5P.3.4-树上差分)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzNDY3OTMxXX0=
--->

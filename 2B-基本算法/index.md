@@ -1,4 +1,5 @@
 ## 基本算法
+#### *Basic Algorithms*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 基本算法
+#### $\S$ 基本算法
 
 > 基础算法思想与模板
 
@@ -21,7 +22,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -36,7 +37,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [2B.1 排序算法](https://cuberxl.github.io/Coders-Note/2B-基本算法/2B.1-排序算法)
 - [2B.2 二分查找](https://cuberxl.github.io/Coders-Note/2B-基本算法/2B.2-二分查找)

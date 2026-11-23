@@ -1,4 +1,5 @@
 ## 搜索
+#### *Search*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 搜索
+#### $\S$ 搜索
 
 > DFS 与 BFS
 
@@ -17,7 +18,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -28,7 +29,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [4B.1 深度优先搜索 DFS](https://cuberxl.github.io/Coders-Note/4B-搜索/4B.1-深度优先搜索DFS)
 - [4B.2 广度优先搜索 BFS](https://cuberxl.github.io/Coders-Note/4B-搜索/4B.2-广度优先搜索BFS)

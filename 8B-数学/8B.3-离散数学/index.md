@@ -1,4 +1,5 @@
 ## 离散数学
+#### *Discrete Mathematics*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/8B-数学/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 离散数学
+#### $\S$ 离散数学
 
 > 组合计数与偏序关系
 
@@ -17,7 +18,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -28,7 +29,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [8B.3.1 组合计数](https://cuberxl.github.io/Coders-Note/8B-数学/8B.3-离散数学/8B.3.1-组合计数)
 - [8B.3.2 偏序关系与偏序集](https://cuberxl.github.io/Coders-Note/8B-数学/8B.3-离散数学/8B.3.2-偏序关系与偏序集)

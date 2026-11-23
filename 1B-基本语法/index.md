@@ -1,4 +1,5 @@
 ## 基本语法
+#### *Basic Syntax*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 基本语法
+#### $\S$ 基本语法
 
 **概念**：本章覆盖 C++ 语言的语法基础与竞赛常用工具：头文件、运算符、变量类型、输入输出、数学函数、算法函数、自定义类型、指针、STL 容器、位运算与字符串流。
 
@@ -28,7 +29,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -54,7 +55,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [1B.1 常用头文件](https://cuberxl.github.io/Coders-Note/1B-基本语法/1B.1-常用头文件)
 - [1B.2 运算符](https://cuberxl.github.io/Coders-Note/1B-基本语法/1B.2-运算符)

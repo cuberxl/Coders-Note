@@ -1,4 +1,5 @@
 ## 初等数论
+#### *Elementary Number Theory*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/8B-数学/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 初等数论
+#### $\S$ 初等数论
 
 > 数论基础与常用算法
 
@@ -22,7 +23,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -38,7 +39,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [8B.1.1 质数](https://cuberxl.github.io/Coders-Note/8B-数学/8B.1-初等数论/8B.1.1-质数)
 - [8B.1.2 约数](https://cuberxl.github.io/Coders-Note/8B-数学/8B.1-初等数论/8B.1.2-约数)

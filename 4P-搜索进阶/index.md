@@ -1,4 +1,5 @@
 ## 搜索进阶
+#### *Advanced Search*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 搜索进阶
+#### $\S$ 搜索进阶
 
 > 搜索算法的扩展应用
 
@@ -16,7 +17,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -27,6 +28,6 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [4P.1 广搜变形](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/4P.1-广搜变形/)

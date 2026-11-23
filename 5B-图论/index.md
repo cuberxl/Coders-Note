@@ -1,4 +1,5 @@
 ## 图论
+#### *Graph Theory*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 图论
+#### $\S$ 图论
 
 > 图的基础与最短路算法
 
@@ -20,7 +21,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -40,7 +41,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [5B.1 树与图的存储与遍历](https://cuberxl.github.io/Coders-Note/5B-图论/5B.1-树与图的存储与遍历)
 - [5B.2 拓扑排序](https://cuberxl.github.io/Coders-Note/5B-图论/5B.2-拓扑排序)

@@ -1,4 +1,5 @@
 ## 线性代数
+#### *Linear Algebra*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/8B-数学/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 线性代数
+#### $\S$ 线性代数
 
 > 矩阵与方程组
 
@@ -19,7 +20,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -32,7 +33,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [8B.2.1 行列式](https://cuberxl.github.io/Coders-Note/8B-数学/8B.2-线性代数/8B.2.1-行列式)
 - [8B.2.2 矩阵](https://cuberxl.github.io/Coders-Note/8B-数学/8B.2-线性代数/8B.2.2-矩阵)

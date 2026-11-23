@@ -1,4 +1,5 @@
 ## 最小生成树算法
+#### *Minimum Spanning Tree*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/5B-图论/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 最小生成树算法
+#### $\S$ 最小生成树算法
 
 - **定义**：在连通无向图中，选出 $n-1$ 条边，使所有顶点连通且总权值最小。
 
@@ -31,7 +32,7 @@ graph LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [5B.4.1 Prim算法](https://cuberxl.github.io/Coders-Note/5B-图论/5B.4-最小生成树/5B.4.1-Prim算法)
 - [5B.4.2 Kruskal算法](https://cuberxl.github.io/Coders-Note/5B-图论/5B.4-最小生成树/5B.4.2-Kruskal算法)

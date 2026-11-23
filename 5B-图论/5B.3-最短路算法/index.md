@@ -1,4 +1,5 @@
 ## 最短路算法
+#### *Shortest Path Algorithms*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/5B-图论/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 最短路算法
+#### $\S$ 最短路算法
 
 **定义**：在图中求两点之间边权之和最小的路径。
 
@@ -48,7 +49,7 @@ graph LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [5B.3.1 Dijkstra算法](https://cuberxl.github.io/Coders-Note/5B-图论/5B.3-最短路算法/5B.3.1-Dijkstra算法)
 - [5B.3.2 Bellman-Ford算法](https://cuberxl.github.io/Coders-Note/5B-图论/5B.3-最短路算法/5B.3.2-Bellman-Ford算法)

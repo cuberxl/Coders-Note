@@ -1,4 +1,5 @@
 ## 数据结构进阶
+#### *Advanced Data Structures*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 数据结构进阶
+#### $\S$ 数据结构进阶
 
 > 基础数据结构的扩展与高级应用
 
@@ -18,7 +19,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -30,7 +31,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [3P.1 并查集](https://cuberxl.github.io/Coders-Note/3P-数据结构进阶/3P.1-并查集)
 - [3P.2 树状数组](https://cuberxl.github.io/Coders-Note/3P-数据结构进阶/3P.2-树状数组)

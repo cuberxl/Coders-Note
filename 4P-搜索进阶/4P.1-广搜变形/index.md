@@ -1,4 +1,5 @@
 ## 广搜变形
+#### *Variants of BFS*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 广搜变形
+#### $\S$ 广搜变形
 
 > BFS 算法的扩展应用
 
@@ -16,7 +17,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -26,6 +27,6 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [4P.1.1 双端队列 BFS](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/4P.1-广搜变形/4P.1.1-双端队列BFS)

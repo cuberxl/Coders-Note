@@ -1,4 +1,5 @@
 ## 数据结构
+#### *Data Structures*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 数据结构
+#### $\S$ 数据结构
 
 > 常用数据结构实现与应用
 
@@ -23,7 +24,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -40,7 +41,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [3B.1 单链表、双链表](https://cuberxl.github.io/Coders-Note/3B-数据结构/3B.1-单链表、双链表)
 - [3B.2 栈与表达式](https://cuberxl.github.io/Coders-Note/3B-数据结构/3B.2-栈与表达式)

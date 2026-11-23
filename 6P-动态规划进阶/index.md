@@ -1,4 +1,5 @@
 ## 动态规划进阶
+#### *Advanced Dynamic Programming*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 动态规划进阶
+#### $\S$ 动态规划进阶
 
 > DP 模型的深入应用与扩展
 
@@ -19,7 +20,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -31,7 +32,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [6P.1 数字三角形模型](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/6P.1-数字三角形模型)
 - [6P.2 最长上升子序列模型 ( LIS )](https://cuberxl.github.io/Coders-Note/6P-动态规划进阶/6P.2-最长上升子序列模型（LIS）))

@@ -1,4 +1,5 @@
 ## 贪心
+#### *Greedy*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 贪心
+#### $\S$ 贪心
 
 > 贪心算法思想
 
@@ -21,7 +22,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -36,7 +37,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [7B.1 区间问题](https://cuberxl.github.io/Coders-Note/7B-贪心/7B.1-区间问题)
 - [7B.2 哈夫曼树](https://cuberxl.github.io/Coders-Note/7B-贪心/7B.2-哈夫曼树)

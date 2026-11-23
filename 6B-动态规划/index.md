@@ -1,4 +1,5 @@
 ## 动态规划
+#### *Dynamic Programming*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 动态规划
+#### $\S$ 动态规划
 
 > DP 专题
 
@@ -23,7 +24,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -40,7 +41,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [6B.1 背包 DP](https://cuberxl.github.io/Coders-Note/6B-动态规划/6B.1-背包DP)
 - [6B.2 线性 DP](https://cuberxl.github.io/Coders-Note/6B-动态规划/6B.2-线性DP)

@@ -1,6 +1,8 @@
 ## Tarjan算法
 #### *Tarjan Algorithms*
 
+---
+
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/5P-图论进阶/)
 
 [**返回首页**](https://cuberxl.github.io/Coders-Note/)

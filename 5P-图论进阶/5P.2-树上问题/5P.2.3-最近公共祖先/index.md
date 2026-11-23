@@ -1,6 +1,8 @@
 ## 最近公共祖先（LCA）
 #### *Lowest Common Ancestor (LCA)*
 
+---
+
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.2-树上问题/)
 
 [**返回首页**](https://cuberxl.github.io/Coders-Note/)

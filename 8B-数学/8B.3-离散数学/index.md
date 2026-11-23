@@ -1,6 +1,8 @@
 ## 离散数学
 #### *Discrete Mathematics*
 
+---
+
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/8B-数学/)
 
 [**返回首页**](https://cuberxl.github.io/Coders-Note/)

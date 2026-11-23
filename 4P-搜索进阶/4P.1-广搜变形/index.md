@@ -1,6 +1,8 @@
 ## 广搜变形
 #### *Variants of BFS*
 
+---
+
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/4P-搜索进阶/)
 
 [**返回首页**](https://cuberxl.github.io/Coders-Note/)

@@ -33,6 +33,6 @@ flowchart LR
 
 #### 跳转链接
 
-- [5P.1.1 单源最短路建模](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.1-单源最短路/5P.1.1-单源最短路建模)
-- [5P.1.2 单源最短路应用](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.1-单源最短路/5P.1.2-单源最短路应用)
-- [5P.1.3 单源最短路拓展](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.1-单源最短路/5P.1.3-单源最短路拓展)
+- [5P.1.1 单源最短路建模](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.1-最短路算法拓展/5P.1.1-单源最短路/5P.1.1.1-单源最短路建模)
+- [5P.1.2 单源最短路应用](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.1-最短路算法拓展/5P.1.1-单源最短路/5P.1.1.2-单源最短路应用)
+- [5P.1.3 单源最短路拓展](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.1-最短路算法拓展/5P.1.1-单源最短路/5P.1.1.3-单源最短路拓展)

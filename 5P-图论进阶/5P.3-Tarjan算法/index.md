@@ -1,4 +1,5 @@
 ## Tarjan算法
+#### *Tarjan Algorithms*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/5P-图论进阶/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### Tarjan算法
+#### $\S$ Tarjan算法
 
 > 图的连通性算法
 
@@ -19,7 +20,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -32,7 +33,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [5P.7.1 强连通分量 ( SCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.3-Tarjan算法/5P.3.1-强连通分量（SCC）)
 - [5P.7.2 边双连通分量 ( e-DCC )](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.3-Tarjan算法/5P.3.2-边双连通分量（e-DCC）)

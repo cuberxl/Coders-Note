@@ -1,4 +1,5 @@
 ## 图论进阶
+#### *Advanced Graph Theory*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 图论进阶
+#### $\S$ 图论进阶
 
 > 最短路算法的深入应用与扩展
 
@@ -18,7 +19,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -42,7 +43,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [5P.1 最短路算法拓展](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.1-最短路算法拓展/)
 - [5P.2 树上问题](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.2-树上问题/)

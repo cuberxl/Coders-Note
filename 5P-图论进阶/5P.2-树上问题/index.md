@@ -1,4 +1,5 @@
 ## 树上问题
+#### *Problems on Trees*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/5P-图论进阶/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 树上问题
+#### $\S$ 树上问题
 
 > 树的结构性质与树上算法
 
@@ -19,7 +20,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -36,7 +37,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [5P.2.1 树的重心](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.2-树上问题/5P.2.1-树的重心)
 - [5P.2.2 树的直径](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.2-树上问题/5P.2.2-树的直径)

@@ -1,4 +1,5 @@
 ## 最短路算法拓展
+#### *Extensions of Shortest Path Algorithms*
 
 [**返回上一页**](https://cuberxl.github.io/Coders-Note/5P-图论进阶/)
 
@@ -6,7 +7,7 @@
 
 ---
 
-#### 最短路算法拓展
+#### $\S$ 最短路算法拓展
 
 > 单源最短路的建模、应用与拓展
 
@@ -19,7 +20,7 @@
 
 ---
 
-#### 章节结构
+#### $\S$ 章节结构
 
 ```mermaid
 flowchart LR
@@ -35,7 +36,7 @@ flowchart LR
 
 ---
 
-#### 跳转链接
+#### $\S$ 跳转链接
 
 - [5P.1.1 单源最短路](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.1-最短路算法拓展/5P.1.1-单源最短路/)
 - [5P.1.2 Floyd算法拓展](https://cuberxl.github.io/Coders-Note/5P-图论进阶/5P.1-最短路算法拓展/5P.1.2-Floyd算法拓展)

@@ -101,10 +101,11 @@
     margin: 0;
   }
 
-  /* 代码高亮配色（对齐 GitHub 风格） */
+  /* 代码高亮配色（Atom One Light） */
   .markdown-body .highlighter-rouge .highlight,
   .markdown-body pre.highlight {
-    background: #f1f5f9;
+    background: #fafafa;
+    border: 1px solid #e5e5e6;
     border-radius: 6px;
     padding: 14px 16px;
   }
@@ -112,83 +113,80 @@
   .markdown-body .highlight pre,
   .markdown-body .highlight code {
     background: transparent;
-    color: #24292e;
+    color: #383a42;
     font-family: Consolas, "Cascadia Mono", "SFMono-Regular", "Liberation Mono", Menlo, monospace;
     font-size: 13.5px;
     line-height: 1.55;
     letter-spacing: 0.2px;
   }
 
+  /* 注释、预处理指令、字符串 —— 绿 */
   .markdown-body .highlight .c,
   .markdown-body .highlight .c1,
   .markdown-body .highlight .cm,
   .markdown-body .highlight .cs,
-  .markdown-body .highlight .cd {
-    color: #6a737d;
+  .markdown-body .highlight .cd,
+  .markdown-body .highlight .cp,
+  .markdown-body .highlight .cpf,
+  .markdown-body .highlight .s,
+  .markdown-body .highlight .s1,
+  .markdown-body .highlight .s2,
+  .markdown-body .highlight .se,
+  .markdown-body .highlight .sc,
+  .markdown-body .highlight .sb,
+  .markdown-body .highlight .sd {
+    color: #50a14f;
     font-style: normal;
   }
 
+  /* 关键字、类型、宏 —— 紫 */
   .markdown-body .highlight .k,
   .markdown-body .highlight .kd,
   .markdown-body .highlight .kn,
   .markdown-body .highlight .kr,
   .markdown-body .highlight .kt,
   .markdown-body .highlight .kc,
-  .markdown-body .highlight .cp {
-    color: #d73a49;
-    font-weight: 600;
-  }
-
-  .markdown-body .highlight .nf,
-  .markdown-body .highlight .fm {
-    color: #6f42c1;
-  }
-
-  .markdown-body .highlight .n,
-  .markdown-body .highlight .nv,
-  .markdown-body .highlight .nn,
+  .markdown-body .highlight .kr,
   .markdown-body .highlight .nc,
-  .markdown-body .highlight .nt {
-    color: #24292e;
+  .markdown-body .highlight .nn,
+  .markdown-body .highlight .nt,
+  .markdown-body .highlight .no,
+  .markdown-body .highlight .nv,
+  .markdown-body .highlight .nd,
+  .markdown-body .highlight .na {
+    color: #a626a4;
+    font-weight: 500;
   }
 
-  .markdown-body .highlight .nc {
-    color: #6f42c1;
-    font-weight: 600;
-  }
-
+  /* 数字与常量 —— 棕 */
+  .markdown-body .highlight .m,
   .markdown-body .highlight .mi,
   .markdown-body .highlight .mf,
-  .markdown-body .highlight .m,
   .markdown-body .highlight .mh,
-  .markdown-body .highlight .il {
-    color: #005cc5;
+  .markdown-body .highlight .il,
+  .markdown-body .highlight .mo {
+    color: #b76b01;
   }
 
+  /* 函数名 —— 蓝 */
+  .markdown-body .highlight .nf,
+  .markdown-body .highlight .fm,
+  .markdown-body .highlight .nb {
+    color: #4078f2;
+  }
+
+  /* 运算符 —— 蓝（One Light 风格） */
   .markdown-body .highlight .o,
   .markdown-body .highlight .ow {
-    color: #b35c1e;
+    color: #4078f2;
     font-weight: normal;
   }
 
-  .markdown-body .highlight .nb {
-    color: #005cc5;
-  }
-
-  .markdown-body .highlight .s,
-  .markdown-body .highlight .s1,
-  .markdown-body .highlight .s2,
-  .markdown-body .highlight .se,
-  .markdown-body .highlight .sc {
-    color: #032f62;
-  }
-
-  .markdown-body .highlight .p {
-    color: #24292e;
-  }
-
-  .markdown-body .highlight .nb {
-    color: #005cc5;
+  /* 普通标识符与标点 —— 深灰 */
+  .markdown-body .highlight .n,
+  .markdown-body .highlight .p,
+  .markdown-body .highlight .nx {
+    color: #383a42;
   }
 </style>
 
